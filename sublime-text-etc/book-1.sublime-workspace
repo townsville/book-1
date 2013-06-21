@@ -1,0 +1,369 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"class"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"the",
+				"theentities"
+			],
+			[
+				"h",
+				"hello"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/bradkoehn/Dropbox/townsville/book-1/Townsville.txt",
+			"settings":
+			{
+				"buffer_size": 132732,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"them",
+				"Schemr: List all schemes"
+			],
+			[
+				"markdown",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"theme",
+				"Schemr: Next scheme"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"sch",
+				"Schemr: List schemes"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"svn",
+				"SVN: Checkout…"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"s",
+				"Schemr: List schemes"
+			],
+			[
+				"sche",
+				"Schemr: List schemes"
+			],
+			[
+				"scsche",
+				"Schemr: List schemes"
+			],
+			[
+				"cosch",
+				"Schemr: Random scheme"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"conver",
+				"Convert Case: Swap Case"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/README.md",
+		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/MarkdownEditor-Focus.tmTheme",
+		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/bradkoehn/Google Drive/Fictions/Townsville.gdoc",
+		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Installed Packages/Package Control.sublime-package",
+		"/Volumes/Macintosh HD/Users/bradkoehn/Dropbox/Santander/Code/svn/chryslercapitalmyaccount/ChryslerCapitalMyAccount/content/My Profile/Personal.html",
+		"/Users/bradkoehn/Dropbox/Santander/Code/svn/my-account-root/Website/content/My Profile/Personal.html",
+		"/Users/bradkoehn/Dropbox/Elements/Story/Townsville.txt",
+		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/User/SmartMarkdown.sublime-settings",
+		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/SmartMarkdown/SmartMarkdown.sublime-settings",
+		"/Users/bradkoehn/Desktop/1.txt",
+		"/Users/bradkoehn/Dropbox/Elements/Story/Townsville Ideas.txt",
+		"/Users/bradkoehn/Desktop/2",
+		"/Volumes/Macintosh HD/Users/bradkoehn/Dropbox/Santander/Code/svn/chryslercapitalmyaccount/ChryslerCapitalMyAccount/content/My Profile/Employers.html",
+		"/Volumes/Macintosh HD/Users/bradkoehn/Dropbox/Santander/Code/svn/chryslercapitalmyaccount/ChryslerCapitalMyAccount/content/My Profile/Insurance.html",
+		"/Volumes/Macintosh HD/Users/bradkoehn/Dropbox/Santander/Code/svn/chryslercapitalmyaccount/ChryslerCapitalMyAccount/content/My Profile/References.html",
+		"/Users/bradkoehn/Dropbox/Santander/Code/svn/chryslercapitalmyaccount/ChryslerCapitalMyAccount/content/My Profile/Personal.html",
+		"/Volumes/Macintosh HD/Users/bradkoehn/Dropbox/Santander/Code/svn/my-account-root/Website/content/My Profile/Personal.html",
+		"/Volumes/Macintosh HD/Users/bradkoehn/Dropbox/Santander/Code/svn/my-account-root/Website/Scripts/viewmodels/source/Login.coffee",
+		"/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/mach/message.h",
+		"/Users/bkoehn/Dropbox/readyrosie/code/scheduler/cron.php",
+		"/Volumes/Macintosh HD/Users/bkoehn/Dropbox/Santander/Code/svn/chryslercapitalmyaccount/ChryslerCapitalMyAccount/content/css/style.css",
+		"/Volumes/Macintosh HD/Users/bkoehn/Dropbox/Santander/Code/svn/chryslercapitalmyaccount/ChryslerCapitalMyAccount/content/My Profile/References.html",
+		"/Users/bkoehn/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bkoehn/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/bkoehn/Dropbox/logs/IM/ICQ/Query/381825498.log",
+		"/Users/bkoehn/Dropbox/Santander/Code/svn/chryslercapitalmyaccount/ChryslerCapitalMyAccount/content/css/style.css",
+		"/Users/bkoehn/Library/Application Support/Sublime Text 2/Packages/SVN/SVN.sublime-settings",
+		"/Users/bkoehn/Dropbox/Elements/Story/Perry Cappa.txt",
+		"/Volumes/Macintosh HD/Users/bkoehn/Dropbox/Santander/Code/svn/my-account-root/Website/content/css/bootstrap-responsive.min.css",
+		"/var/folders/xt/mt_svm097dldgc0slwy3rv9s141r51/T/sublime-svn-1369403620/SVN",
+		"/Users/bkoehn/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"I am a fellow townsviller. A seaburbian like yourself. I'm pleased to be here, sir, I really am. I'm glad to finally meet you, my neighbor!\" The man said, wild-eyed.\n\n",
+			"of",
+			"text",
+			"changeEmailDialog",
+			"email",
+			"modal",
+			"<dt>Email",
+			"<TABLE style=\"TEXT-INDENT: 0px\" cellSpacing=0 cellPadding=3><TBODY><TR><TD><dt>Email Address</dt></TD></TR><TR><TD> </TD><TD><dd data-bind=\"visible: !$root.isReadOnly(), text: $data.Email.Address\"></dd></TD></TR><TR><TD> </TD><TD><dd data-bind=\"visible: $root.isReadOnly(), text: MyAccountApp.Session.customerEmail()\"></dd></TD></TR></TBODY></TABLE>",
+			"edit",
+			"save",
+			"readonly",
+			"visible",
+			"48",
+			"update",
+			"lease",
+			"48",
+			"cancel",
+			"modal",
+			"cancel",
+			"Add a Refer",
+			"add",
+			"update",
+			"85C42000",
+			"mfe",
+			"mcafee",
+			"wrap",
+			"word",
+			"search-query",
+			"search",
+			"query",
+			"auth",
+			"to speak to",
+			"to speak",
+			"zip",
+			"check",
+			"speak",
+			"check",
+			"chair",
+			"customMessage\ncustomMessage",
+			"</br>",
+			"<br>",
+			"checkbox",
+			"auth",
+			"it",
+			"comm",
+			"a",
+			"account",
+			"/*\n * Site specific styles (i.e. stuff you'd only see on this site)\n ***********************************************************/\n\nbody {\n	background-color: #fff url('../images/bg-sky.jpg') top center no-repeat;\n	font-weight: 400;\n}\n\np {\n	line-height: 19px; \n}\n\n.container-fluid {\n	margin: 0;\n	padding: 0;\n}\n\n.clear {\n	clear:both;\n}\n\n.overflow-hidden {\n	overflow-x: hidden;\n}\n\n.center-this {\n	text-align:center !important;\n}\n\nul.inline-list {\n	margin-left:0px;\n	padding-left:0px;\n}\n\nul.inline-list li {\n	list-style:none;\n}\n\ninput[type=\"file\"]{\n	height:40px;\n	width:220px;\n	margin-right:20px;\n}\n\na {\n	color:#ff0000;\n} \n\na:hover {\n	color:#333;\n}\n\nh1, h2, h3, h4, h5, h6{\n	margin: 0;\n}\n\nh1 {\n	font-size: 30px;\n	font-weight: 300;\n	line-height: 32.5px;\n}\nh2{\n	font-weight: 300;\n}\n\n\nstrong{\n	font-weight: 600;\n}\n\n.hide-this {\n	display:none !important;\n}\n\nspan.important {\n	color:#ff0000;\n}\n\n.btn-spacer {\n	margin-right:10px;\n}\n\n\ninput.input-width-100 {\n	width:auto;\n	max-width:100px; \n}\n\n#page-header {\n	text-align:center;\n}\n\n.contentbox header .glyphicons i::before {\n	margin: 2px 0px 0px 5px;\n	color: #4d4d4d;\n}\n\n.page-description .glyphicons i::before {\n	margin: 2px 0px 0px 5px;\n	color: #4d4d4d;\n}\n\n.submenu .glyphicons i::before {\n	position: absolute;\n	left: 0;\n	top: 0;\n	font: 24px/1em 'Glyphicons';\n	font-style: normal;\n	color: #fff;\n}\n\n.left {\n	float: left;\n}\n\ndl {\n  margin: 0px;\n}\ndt,\ndd {\n  line-height: 12px;\n}\ndt {\n  font-weight: normal;\n}\ndd {\n  margin-left: 0px;\n}\n\n\n.status .label {\n	display: inline-block;\n	padding: 2px 7px 4px 4px;\n	font-size: 11.844px;\n	font-weight: 800;\n	line-height: 14px;\n	color: #ffffff;\n	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);\n	white-space: nowrap;\n	vertical-align: baseline;\n}\n\n.label-important{\n	background-color: #694e89;\n}\n\n.label-delinquent{\n	background-color: #FF00A6;\n}\n\n.label-current{\n	background-color: #36c828;\n}\n\n.label-closed{\n	background-color: #43697f;\n}\n\n.label-attention{\n	background-color: #e8dc00;\n}\n\n.popover-title {\n	padding: 8px 14px;\n	margin: 0;\n	font-size: 14px;\n	font-weight: normal;\n	line-height: 18px;\n	background-color-color: \n	#f7f7f7;\n	border-bottom: 1px solid \n	#ebebeb;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n}\n\n.popover-inner {\n	width: 236px;\n	background-color-color: \n	#ffffff;\n	border: 1px solid \n	#ccc;\n	border: 1px solid \n	rgba(0, 0, 0, 0.2);\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n	-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);\n	-moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);\n	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);\n	-webkit-background-color-clip: padding-box;\n	-moz-background-color-clip: padding;\n	background-color-clip: padding-box;\n}\n\n\n.popover.top .arrow {\n	bottom: -4px;\n	left: 50%;\n	margin-left: -10px;\n	border-top-color: \n	#ffffff;\n	border-width: 10px 10px 0;\n	}\n\n.alert{\n	padding: 14px 35px 14px 14px;\n	margin-bottom: 7px;\n	font-weight: 600;\n	font-size: 12px;\n	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);\n	background-color-color: #fcf8e3;\n	border: 1px solid #fbeed5;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n	color: #c09853;\n}\n\n.alert .close {\n	position: relative;\n	top: -4px;\n	right: -21px;\n	line-height: 18px;\n}\n\n.alert h4 {\n  margin: 0;\n}\n\n.alert-success {\n  background-color\n-color: #dff0d8;\n  border-color: #d6e9c6;\n  color: #468847;\n}\n.alert-danger,\n.alert-error {\n  background-color\n-color: #f2dede;\n  border-color: #eed3d7;\n  color: #b94a48;\n}\n.alert-info {\n  background-color\n-color: #e6e6e6;\n  border-color: #d5d5d5;\n  color: #8e8e8e;\n}\n.alert-info-blue {\n  background-color\n-color: #d9edf7;\n  border-color: #bce8f1;\n  color: #3a87ad;\n}\n.alert-block {\n  padding-top: 14px;\n  padding-bottom: 14px;\n}\n.alert-block > p,\n.alert-block > ul {\n  margin-bottom: 0;\n}\n.alert-block p + p {\n  margin-top: 5px;\n}\n\n.alert li{\n	line-height: 17px;\n}\n\n.alert ul{\n	margin-top: 10px;\n}\n\n.hero-unit {\n	padding: 15px;\n}\n\n.hero-unit p {\n	font-size: 15px;\n	line-height: 19px;\n	color: inherit;\n	font-weight: 400;\n}\n\nh2.hero-header {\n	font-size: 24px;\n	line-height: 28px;\n	margin: 4px 0 13px 40px;\n	color: #4D4D4D;\n	font-weight: 600;\n}\n.btn {\n  display: inline-block;\n  *display: inline;\n  *zoom: 1;\n  padding: 4px 10px 4px;\n  margin-bottom: 0;\n  font-size: 15px;\n  line-height: 26px;\n  text-align: center;\n  vertical-align: middle;\n  cursor: pointer;\n  color: none;\n  text-shadow: none;\n  /*\nbackground-colo: #dddddd;\n  background-color\n-color: #dddddd;\n*/\n  background-color\n-image: none;\n  border-color: none;\n  *background-color\n-color: #e6e6e6;\n  filter: none;\n  border: 1px solid #ccc;\n  *border: 0;\n  border-bottom-color: #b3b3b3;\n  -webkit-border-radius: 0px;\n  -moz-border-radius: 0px;\n  border-radius: 0px;\n  *margin-left: .3em;\n}\n.label {\n	padding: 2px 4px 2px;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n	font-weight: 600;\n}\n/*\n * Icons\n ***********************************************************/\n.icon-blue {\n	background-color-image: url(\"../images/glyphicons-halflings-blue.png\");\n}\n\n.icon-green {\n	background-color-image: url(\"../images/glyphicons-halflings-green.png\");\n}\n\n.icon-red {\n	background-color-image: url(\"../images/glyphicons-halflings-red.png\");\n}\n\n.icon-yellow {\n	background-color-image: url(\"../images/glyphicons-halflings-yellow.png\");\n}\n\n/*\n * Navigation\n ***********************************************************/\n.logoshadowlimiter {\n	width: 250px;\n	height: 10px;\n	background-color: \n	#f00;\n	position: absolute;\n	margin: 49px 0px 0px -28px;\n	display: none;\n}\n\n.navbar .nav {\n	position: relative;\n	left: 0;\n	display: block;\n	float: right;\n	margin: 45px 0px 0px 0px;\n}\n\n.navcontainer {\n	height: 49px;\n}\n\n.navbar {\n	-moz-box-shadow: none;\n	-webkit-box-shadow:none;\n	box-shadow:none;\n	margin-top: 50px;\n}\n.navbar .btn, .navbar .btn-group {\n	/* margin-top: 8px; */\n}\n.navbar .btn-navbar {\n	border: 1px solid #333;\n	float: left;\n	margin: 12px 20px 0;\n}\n.navbar .nav-collapse {\n	clear: none;\n}\n.navbar .nav-collapse.in {\n	clear: both;\n}\n.navbar-inverse .navbar-inner {\n	padding: 0 20px 0 0;\n	background-color-color: rgba(26,41,55,0.8);\n	background-color-image: none;\n	position: relative;\n	z-index: 100;\n	border: none;\n}\n.navbar .brand {\n	padding: 30px 0px 30px 0px;\n}\n\n.navbar .nav > li > a, .minimenu > a {\n	color: #fff;\n	font-weight: 400;\n	padding: 15px 0px 0px;\n	text-shadow: none;\n	font-size: 14px;\n}\n.navbar .nav > li {\n	position: relative;\n	border-right: none;\n	-moz-box-shadow: none;\n	-webkit-box-shadow: none;\n	box-shadow: none;\n	text-align: center;\n}\n.navbar .nav > li > a:hover,\n.navbar .nav > .active > a,\n.navbar .nav > .active > a:hover,\n.navbar .nav > .active > a:focus {\n	font-weight: 500;\n	background-color: #1b2a39;\n	color: #fff;\n	padding: 0px;\n	margin: 15px 0px 0px 0px;\n\n}\n.navbar .nav > .active > a:after {\n	content: ' ';\n	height: 0;\n	position: absolute;\n	width: 0;\n	bottom: 0;\n	left: 50%;\n	margin-left: -10px;\n	border: 10px solid transparent;\n	border-bottom-color: none;\n}\n.navbar-fixed-top,\n.navbar-fixed-bottom {\n  position: relative;\n  right: 0;\n  left: 0;\n  z-index: 1000;\n  margin-bottom: 0;\n}\n.navbar-inverse .nav li.dropdown.open > .dropdown-toggle, .navbar-inverse .nav li.dropdown.active > .dropdown-toggle, .navbar-inverse .nav li.dropdown.open.active > .dropdown-toggle {\n	background-color-color: #1b2a39;\n	color: #fff;\n}\nul.dropdown-menu {\n	text-align: left;\n}\n\n.minimenu {\n	display: none !important;\n	float: right !important;\n	margin: 45px -20px 0 0 !important;\n}\n\n.minimenu > li {\n	position: relative;\n	/* border-right: 0px solid #6a6a6a !important; */\n	border-left: none;\n	box-shadow: 0px 0px 0px #797979 !important;\n	-moz-box-shadow: 0px 0px 0px #797979 !important;\n	-webkit-box-shadow: 0px 0px 0px #797979 !important;\n	text-align: center;\n}\n\n.navbar .nav > li, .minimenu > li {\n	min-width: 130px; \n}\n\n\n.navbar-fixed-top .container, .navbar-fixed-bottom .container {\n	width: 960px;\n}\n\n.submenu {\n	margin: 20px 0 0 0;\n	background-color: rgba(26,41,55,0.8);\n	-moz-border-radius: 0px;\n    -webkit-border-radius: 0px;\n    -khtml-border-radius: 0px;\n    border-radius: 0px;\n    min-height: 20px;\n}\n\n.submenu .nav-tabs.nav-stacked > li > a {\n	color: #fff;\n	font-size: 12px;\n	border: 0px solid #a1c6dc !important;\n	border-bottom: 1px solid #5c6872 !important; \n	font-weight: 500;\n\n}\n\n.submenu .nav-tabs.nav-stacked > li:last-child > a {\n	border-bottom: 0px !important;\n}\n\n.submenu .nav > li > a:hover {\n	text-decoration: none;\n	background-color-color: #1b2a39;\n}\n\n.submenu .nav > li::before, .submenu .nav > li::after, .submenu .nav > li a::before, .submenu .nav > li a::after {\n	content: \"\";\n	position: absolute;\n	top: 50%;\n	left: 0;\n}\n\n.submenu li {\n	position: relative;\n	z-index: 1;\n	list-style: none;\n	margin-bottom: 0px;\n}\n\n.submenu .nav > li > a.active {\n	background-color-color: #1b2a39;\n}\n\n.submenu .nav > li > a.active:hover {\n	background-color-color: #1b2a39;\n}\n\n.submenu .nav > li > a.active::before {\n	left: 100%;\n	border: 8px solid transparent;\n	border-width: 8px 8px;\n	border-left-color: #1b2a39;\n	margin-top: -7px;\n	background-color: transparent;\n}\n\n.submenu .nav > li > a.active:hover::before {\n	border-left-color: #1b2a39;\n}\n\n.actionmenu .nav > li > a {\n	background-color-color: #7a7a7a !important;\n}\n\n.actionmenu .nav > li > a:hover {\n	background-color-color: #5d5d5d !important;\n}\n\n.actionmenu .nav-tabs.nav-stacked > li > a {\n	color: #fff;\n	font-size: 12px;\n	border: 0px solid #ccc !important;\n	border-bottom: 1px solid #8e8e8e !important; \n}\n\n.actionmenu{\n	margin-top: 10px !important;\n}\n\n.accounts-menu {\n	margin: 20px 0 0 0;\n}\n\n/*\n * Top Panel\n ***********************************************************/\n.top-panel{\n	overflow:hidden;\n	font-size:9px;\n	line-height:11px;\n	color:#808080;\n	padding:8px 0 11px;\n	margin-bottom: -50px;\n	text-shadow: none;\n}\n.top-panel .section{float:right;}\n.top-panel .text{\n	float:left;\n	text-align:right;\n	white-space:nowrap;\n	font-size:12px;\n	line-height:14px;\n}\n.top-panel .text strong{\n	display:block;\n	font-weight:bold;\n	width:auto;\n}\n.top-panel .info {\n	white-space:nowrap;\n	float:left;\n	text-align:right;\n	line-height:10px;\n	padding:3px 0 0 10px;\n	margin:0 0 0 13px;\n	background-color:url(../images/separator01.png) no-repeat 0 6px;\n}\n\n\n.top-panel .info p{\n	margin: 0;\n	font-size: 12px;\n	line-height: 11px;\n}\n\n.top-panel .btn{\n	float:left;\n	margin:4px 0 0 9px;\n	font:600 10px/12px \"myriad-pro\", Arial, Helvetica, sans-serif;\n	color:#fff;\n	-moz-border-radius: 0px;\n	-webkit-border-radius: 0px;\n	border-radius:0px;\n	overflow:hidden;\n	text-decoration:none;\n	padding:4px 8px 5px 25px;\n}\n\n.top-panel .log:hover{\n	background-color:#474747 url(../images/ico01.png) no-repeat 12px 4px;\n}\n\n\n.top-panel .chat:hover{\n	background-color:#e67b00 url(../images/ico02.png) no-repeat 7px 5px;\n	color: #f2f2f2;\n}\n\n\n\n.log{background-color:#666 url(../images/ico01.png) no-repeat 12px 4px;}\n.top-panel .chat{background-color:#f78300 url(../images/ico02.png) no-repeat 7px 5px;}\n\n\n/*\n * Top Accounts (shows on every my account page)\n ***********************************************************/\n \n .accounts {\n	height: auto;\n	padding: 12px 0px 0px 0px;\n	margin-left: -38px;\n	background-color: none;\n	\n }\n \n\n\n.accounts .btn-group > .btn:first-child {\n-webkit-border-top-left-radius: 0px;\n-moz-border-radius-topleft: 0px;\nborder-top-left-radius: 0px;\n-webkit-border-bottom-left-radius: 0px;\n-moz-border-radius-bottomleft: 0px;\nborder-bottom-left-radius: 0px;\n}\n\n.accounts .btn-group > .btn:last-child, .btn-group > .dropdown-toggle {\n-webkit-border-top-right-radius: 0px;\n-moz-border-radius-topright: 0px;\nborder-top-right-radius: 0px;\n-webkit-border-bottom-right-radius: 0px;\n-moz-border-radius-bottomright: 0px;\nborder-bottom-right-radius: 0px;\n}\n\n.btn-accounts {\n	padding: 10px;\n  	background-color\n : #517891;\n	color:#fff;\n	text-shadow: 0px 1px 0px #2d2d2d;\n	font-size: 15px;\n}\n\n\n.btn-accounts:hover {\n	background-color: #1b2a39;\n	color:#ffffff;\n}\n\n.accounts .btn-group.open .btn.dropdown-toggle {\n  background-color\n: #7d7d7d;\n  color:#dcdcdc;\n	\n}\n\n.accounts .btn-group .dropdown-toggle:active, .accounts\n.btn-group.open .dropdown-toggle {\n  outline: 0;\n  background-color\n: #7d7d7d;\n  color:#dcdcdc;\n\n	\n}\n\n\n.account-snapshot {\n	\n}\n\n.accounts .btn .caret {\n	margin-top: 11px;\n	margin-left: 6px;\n	border-top: 4px solid white;\n	opacity: 0.7;\n}\n\n.accounts-icon i::before {\n	left: 6px;\n	top: 3px;\n	font-size: 18px;\n	color: #dfdfdf;\n	text-shadow: 0 1px 0 #2d2d2d;\n}\n\n.accounts-icon-list i::before {\n	left: 13px;\n	top: 6px;\n	font-size: 14px;\n	color: #585858;\n}\n\n\n.accounts .number strong{\n	font-size:10px;\n	color:#fff;\n}\n.accounts .current{background-color:url(../images/ico03.png) no-repeat 100% 2px;}\n.accounts .delinquent{background-color:url(../images/ico04.png) no-repeat 100% 2px;}\n.accounts .status a:hover{text-decoration:underline;}\n\n.accounts .status{\n	float: left;\n	padding:5px 0 5px 10px;\n}\n\n.status i::before {\n	left: 5px;\n	top: 2px;\n	font-size: 10px;\n	color: #fff;\n	text-shadow: 0 0px 0;\n}\n\n.status .glyphicons {\n	padding: 1px 0 0px 21px;\n}\n\n.accounts .status a{\n	color:#fff;\n	padding:0 17px 2px 3px;\n	margin:0 0 -2px;\n	float:left;\n	font-size:10px;\n	text-decoration:none;\n}\n\n.smalldivider{\n	margin: 15px 0px 5px 0px;\n	border-top: 1px solid #ddd;\n}\n\n\n/*\n * Account Selection/Summary Page\n ***********************************************************/\n\n\n.accountcontainer {\n	font-size: 11px;\n	line-height: 13px;\n	overflow: hidden;\n	margin: 0 0 35px;\n	background-color: #fff;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n	border: 1px solid #ccc;\n}\n.accountcontainer header{\n	width:100%;\n	background:#333;\n	border-bottom:1px solid #666;\n	color:#f2f2f2;\n	position:relative;\n	z-index:10;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n}\n.accountcontainer header:after{\n	content:'';\n	display:block;\n	clear:both;\n}\n.accountcontainer .title{\n	float:left;\n	font:bold 13px/15px \"myriad-pro\", Arial, Helvetica, sans-serif;\n	border-right:1px solid #f2f2f2;\n}\n.accountcontainer .title span{\n	float:left;\n	padding:7px 10px 21px;\n	background:url(../images/ico09.png) no-repeat 50% 100%;\n	margin:0 0 -13px;\n}\n.accountcontainer .number{\n	float:left;\n	padding:8px 0 0 11px;\n}\n.accountcontainer .number span{\n	float:left;\n	font-size:10px;\n	line-height:12px;\n	font-weight:500;\n	text-transform:uppercase;\n	color:#999;\n	padding:0 5px 0 0;\n}\n.accountcontainer .number strong{\n	font-size:13px;\n	color:#f2f2f2;\n	font-weight:normal;\n	float:left;\n}\n.accountcontainer .status{\n	float:left;\n	padding:7px 0 0 22px;\n}\n\n.accountcontainer .status span.label, .accountcontainer .status a.label{\n	font-weight:600;\n	font-size:11px;\n	color:#fff;\n	float:left;\n	padding:1px 10px 1px 0 !important;\n}\n\n.accountcontainer .status .desc-header{\n	font-weight:600;\n	font-size:10px;\n	color:#999;\n	float:left;\n	padding:1px 10px 0 0;\n}\n.accountcontainer .status a{\n/*\n	float:left;\n	font-size:13px;\n	line-height:14px;\n	color:#f2f2f2;\n	font-weight:normal;\n	text-decoration:none;\n	padding:0 18px 1px 0;\n*/\n}\n.accountcontainer .status .current{background:url(../images/ico03.png) no-repeat 100% 1px;}\n.accountcontainer .status .delinquent{background:url(../images/ico04.png) no-repeat 100% 1px;}\n.accountcontainer .status a:hover{text-decoration:underline;}\n.nickname{\n	float:right;\n	border-radius:3px;\n	overflow:hidden;\n	background:#4d4d4d url(../images/ico05.png) no-repeat 9px 6px;\n	font-size:11px;\n	line-height:15px;\n	padding:3px 7px 3px 24px;\n	text-decoration:none;\n	color:#f2f2f2;\n	margin:6px 9px 0 0;\n}\n.nickname:hover{text-decoration:underline;}\n.accountcontainer .photo{\n	float:left;\n	margin:5px 0 0;\n}\n.accountcontainer .container{\n	overflow:hidden;\n	padding:18px 12px 19px 15px;\n	position:relative;\n}\n\n\n.accountcontainer .payment{\n	background:#e6e6e6;\n	overflow:hidden;\n	border-radius:6px;\n	padding:38px 15px 17px 11px;\n	position:relative;\n	width:198px;\n	margin-top: 17px;\n}\n.accountcontainer .payment .text{\n	position:absolute;\n	top:0;\n	left:0;\n	border-radius:0 0 6px 0;\n	background:#f4f4f4;\n	color:#517891;\n	padding:7px 10px 8px;\n}\n.accountcontainer .payment .section{\n	overflow:hidden;\n	margin:0 0 11px;\n}\n.accountcontainer .payment .total,\n.accountcontainer .payment .date{\n	float:left;\n	font-size:10px;\n	color:#808080;\n}\n.accountcontainer .payment .date{\n	float:right;\n	padding:0 2px 0 0;\n}\n.accountcontainer .payment .total strong,\n.accountcontainer .payment .date strong{\n	display:block;\n	width:auto;\n	font-size:14px;\n	color:#333;\n	padding:2px 0 0;\n}\n.accountcontainer .payment .date strong{font-size:12px;}\n.make{\n	display:block;\n	text-align:center;\n	font:600 13px/15px \"myriad-pro\", Arial, Helvetica, sans-serif;\n	background:#517891;\n	color:#fff;\n	border-radius:3px;\n	overflow:hidden;\n	-webkit-box-shadow: 1px 1px 5px 1px #717171;\n	box-shadow: 1px 1px 5px 1px #717171;\n	text-decoration:none;\n	margin:0 0 0 2px;\n	position:relative;\n	padding:4px 0 6px;\n}\n.accountcontainer .payment .view{\n	display:block;\n	margin:0 30px;\n	background:#b3b3b3;\n	border-radius:0 0 5px 5px;\n	overflow:hidden;\n	color:#333;\n	font-size:10px;\n	line-height:12px;\n	text-decoration:none;\n	padding:3px 0 5px;\n	text-align:center;\n}\n\n.accountcontainer .payment .view:hover{\n	background:#4c4c4c;\n	color:#fff;\n}\n\n.accountcontainer .payment .make:hover{\n	background:#0f4565;\n	color:#f3f3f3;\n}\n\n.accountcontainer .payment .view:hover,\n.make:hover{text-decoration:none;}\n\n.accountcontainer h2{font:16px/18px \"myriad-pro\", Arial, Helvetica, sans-serif;}\n.accountcontainer .serial{\n	display:block;\n	font:600 11px/13px \"myriad-pro\", Arial, Helvetica, sans-serif;\n	text-transform:uppercase;\n	color:#999;\n	margin:0 0 12px;\n}\n.accountcontainer .content .section{\n	overflow:hidden;\n	margin:0 0 12px;\n}\n\n.accountcontainer .threecolumns{\n	background:#e6e6e6 url(../images/bg-threecolumns.png) repeat-y 119px 0;\n	overflow:hidden;\n	border-radius:5px;\n	float:left;\n	width:351px;\n	padding:0 9px 4px 0;\n}\n.accountcontainer .threecolumns .column{\n	float:left;\n	width:110px;\n	padding:0 0 0 11px;\n}\n.accountcontainer .threecolumns .column.alt{\n	padding:0 0 0 13px;\n	width:96px;\n}\n.accountcontainer .threecolumns .info{\n	font-size:10px;\n	line-height:12px;\n	color:#808080;\n}\n.accountcontainer .threecolumns .info dt{padding:7px 0 1px;}\n.accountcontainer .threecolumns .info dd{\n	font-size:14px;\n	line-height:16px;\n	color:#333;\n}\n.accountcontainer .threecolumns .info dd.date{\n	font-size:12px;\n	line-height:14px;\n}\n.accountcontainer .celltable .request{\n	display:block;\n	background:#b3b3b3;\n	border-radius:3px;\n	overflow:hidden;\n	color:#fff;\n	font-size:10px;\n	line-height:12px;\n	padding:2px 8px;\n	text-align:center;\n	text-decoration:none;\n	text-shadow: 0 0px 0 transparent;\n	font-weight: 600;\n}\n\n.accountcontainer .celltable .request:hover{\n	background:#4c4c4c;\n	color:#fff;\n}\n\n.accountcontainer .celltable .text{\n	display:block;\n	padding:1px 0 2px;\n	font-size:10px;\n	line-height:12px;\n	color:#808080;\n}\n.accountcontainer .links{\n	overflow:hidden;\n	padding:5px 0 0 4px;\n	font-size:11px;\n	line-height:12px;\n	color:#333;\n	white-space:nowrap;\n	min-width:115px;\n	list-style:none;\n}\n.accountcontainer .links li{\n	vertical-align:top;\n	padding:0 0 7px;\n	overflow:hidden;\n	line-height: 14px;\n}\n.accountcontainer .links a{\n	float:left;\n	text-decoration:none;\n	color:#333;\n	padding:0 0 0 11px;\n}\n.accountcontainer .links a:hover{\n	text-decoration:underline;\n	}\n\n.accountcontainer .statements{background:url(../images/ico06.png) no-repeat 0 3px;}\n.accountcontainer .history{background:url(../images/ico07.png) no-repeat 0 3px;}\n.accountcontainer .pending{background:url(../images/ico08.png) no-repeat 0 3px;}\n.accountcontainer .account-info{\n	overflow:hidden;\n	line-height:15px;\n	padding: 4px 0px 0px 20px;\n}\n.accountcontainer .account-info dt{\n	float:left;\n	width:121px;\n	text-transform:uppercase;\n	font-size:9px;\n	font-weight:600;\n	color:#999;\n}\n.accountcontainer .account-info dd{overflow:hidden;}\n\n\n.content .celltable {\n\n	max-width: 700px;\n\n}\n\n.paymentcontainer{\n	\n}\n\n.accountcontent {\n	padding: 0px 30px 5px 30px;\n}\n\n.linkcell{\n	background: transparent !important;\n}\n\n.linkcell .cell{\n	background: transparent !important;\n}\n\n.linkcell .cell ul{\n	margin: 0px;\n	background: transparent !important;\n}\n\n.mainaccountsbox .alerts{\n	padding: 20px 30px 10px 30px;\n	position: relative;\n	z-index: 1200px;\n}\n\n.accountbox .alerts{\n	margin-bottom: 20px;\n}\n\n.accountmodal{\n	position: absolute;\n	height: 25%;\n	width: 100%;\n	z-index: 1040;\n}\n\n.disabledsection{\n	opacity: 0.35;\n	filter: alpha(opacity=35);\n}\n\n/*\n * Main\n ***********************************************************/\n#main-container {\n	min-height: 800px;\n	position:relative;\n    \n }\n\n#main {\n	/* padding: 20px; */\n	position: relative;\n	\n}\n\nh2.page-description {\n	font-size: 26px;\n	line-height: 28px;\n	margin: 4px 0 40px 40px;\n	color: #4d4d4d;\n	font-weight: 600;\n}\n\nh2.page-description .label {\n	background: #fff;\n	color: #222;\n	font-size: 1em;\n}\n\n.subtitle {\n	color: #acacac;\n	font-size: 20px;\n	\n}\n\n.contentbox {\n	padding: 20px;\n	background: #fff;\n	-moz-border-radius: 0px;\n    -webkit-border-radius: 0px;\n    -khtml-border-radius: 0px;\n    border-radius: 0px;\n    min-height: 400px;\n    -moz-box-shadow: 0 0 13px rgba(0,0,0,0.1);\n	-webkit-box-shadow: 0 0 13px rgba(0,0,0,0.1);\n	box-shadow: 0 0 13px rgba(0,0,0,0.1);\n	border: 1px solid #ccc;\n}\n\n.accountbox{\n	padding: 20px;\n	background: #f4f4f4;\n	-moz-border-radius: 0px;\n    -webkit-border-radius: 0px;\n    -khtml-border-radius: 0px;\n    border-radius: 0px;\n    margin-bottom: 5px !important;\n    border:1px solid #e5e5e5;\n}\n\n.mainaccountsbox{\n	background: none;\n	margin: 43px 0px 0px 0px;\n}\n\n.mainaccountsbox.header h1 {\n	font-size: 24px;\n	color: #517891;\n	font-weight: 800;\n	line-height: 24px;\n	margin-bottom: 10px;\n}\n\n.mainaccountsbox.header h3 {\n	font-size: 15px;\n	color: #4d4d4d;\n	font-weight: 600;\n	line-height: 18px;\n	margin-bottom: 10px;\n}\n\n.mainaccountsbox.header p {\n	font-size: 17px;\n	color: #4d4d4d;\n	line-height: 18px;\n	margin-bottom: 10px;\n}\n\n.mainaccountsbox.header a{\n	color:#4d4d4d;\n	background:#ccc;\n	text-decoration:none;\n	-moz-border-radius: 0px;\n    -webkit-border-radius: 0px;\n    -khtml-border-radius: 0px;\n	border-radius:3px;\n	overflow:hidden;\n	padding:0px 10px 3px 10px;\n}\n\n.mainaccountsbox.header a:hover{\n	color:#f1f1f1;\n	background:#4f4f4f;\n}\n\n.login {\n	-moz-box-shadow: 0 0 13px rgba(0,0,0,0.1);\n	-webkit-box-shadow: 0 0 13px rgba(0,0,0,0.1);\n	box-shadow: 0 0 13px rgba(0,0,0,0.1);\n	margin: 0px 10px 10px 10px;\n	border: 1px solid #ccc;\n}\n\n.login-message {\n	-moz-box-shadow: 0 0 13px rgba(0,0,0,0.1);\n	-webkit-box-shadow: 0 0 13px rgba(0,0,0,0.1);\n	box-shadow: 0 0 13px rgba(0,0,0,0.1);\n	margin: 20px 10px 10px 10px;\n	min-height: 0px;\n	border: 1px solid #ccc;\n}\n\n.login-message h2 {\n	font-size: 17px;\n	color: #517891;\n	font-weight: 600;\n	line-height: 17px;\n	margin-bottom: 10px;\n}\n\n.login-message h3 {\n	font-size: 15px;\n	color: #4d4d4d;\n	font-weight: 600;\n	line-height: 18px;\n	margin-bottom: 10px;\n}\n\n.login-message p {\n	font-size: 14px;\n	color: #4d4d4d;\n	line-height: 18px;\n	margin-bottom: 10px;\n}\n\n.sublogin {\n	margin: 5px 0px 17px 0px;\n}\n\n.withoutsubmenu {\n	margin: 40px;\n}\n\n.withsubmenu {\n	margin: 20px 0px 40px 5px;\n}\n\n.loginform {\n	margin: 5px 50px 5px 50px;\n}\n\n.login-container input, .login-container textarea, .login-container select {\n	width:95%;\n}\n \n.forgot-links {\n	text-align: center;\n	padding: 35px 0px 0px 0px;\n}\n\n.forgot-links a {\n	font-size: 12px;\n	color: #acacac;\n	text-decoration: underline;\n}\n\n.forgot-links .nav {\n	margin-bottom: 0px;\n}\n\n.login-container {\n	padding: 30px 120px 0px 120px;\n}\n\n.username-message {\n	display: block;\n	margin-top: 30px;\n}\n\na.link-pill {\n	background-color: #eeeeee;\n	padding: 8px;\n	margin-top: 2px;\n	margin-bottom: 2px;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n}\n\na.link-pill:hover {\n	background-color: #b1b1b1;\n}\n\n.header-divider {\n	border-left: 1px solid;\n	padding: 0px 0px 3px 0px;\n	margin: 0px 8px 0px 8px;\n}\n\n.box-bottom {\n	margin: 0px 0px 0px 0px;	\n}\n\n.fine-print p{\n	font-size:12px;\n	margin:0 0 9px;\n}\n.fine-print p strong{\n	font-weight:600;\n}\n.fine-print address{\n	font-size: 14px;\n	line-height: 15px;\n	font-style: normal;\n	padding: 4px 0 0;\n	font-weight: 400;;\n}\n\n.message h2 {\n	font-size: 17px;\n	color: #517891;\n	font-weight: 600;\n	line-height: 17px;\n	margin-bottom: 30px;\n}\n\n.message h3 {\n	font-size: 15px;\n	color: #4d4d4d;\n	font-weight: 600;\n	line-height: 18px;\n	margin-bottom: 4px;\n}\n\n.message p {\n	font-size: 14px;\n	color: #707070;\n	line-height: 18px;\n	margin-bottom: 10px;\n}\n\n.section-separator {\n	margin: 40px 0 39px;\n}\n\n.payoff {\n	text-shadow: 2px 1px 0px #fff;\n}\n\n.payoff .subtitle{\n	font-size: 13px;\n	color: #fff;\n	background-color: #858585;\n	padding: 2px 5px 2px 5px;\n	-moz-border-radius: 0px;\n	-webkit-border-radius: 0px;\n	border-radius: 0px;\n	font-weight: 700;\n	margin: 0px 0px 0px 5px;\n	text-shadow: 0px 1px 0px #000 !important;\n	\n}\n\n.profilesubheader{\n	color: #868686;\n	text-transform: uppercase;\n	padding-right: 10px;\n	font-size: 10px;\n}\n\n.profilesubitems{\n	padding-top: 5px !important;\n}\n\n.profile-celltable .cell .info {\nfont-size: 12px;\n}\n\n\n.page-title-icons i::before{display:inline;font-size:20px;margin-left:10px;margin-top:-7px;}\n.payment-options-icons i::before{float:left;font-size:18px;margin-left:10px;margin-top:-7px;}\n\n.box-height-med {\n	min-height: 230px !important;\n}\n\n.box-height-tall{\n	min-height: 270px !important;\n}\n\n.p-small{font-size:12px; line-height:13px;}\n.small-icons i::before {display:inline;font-size:7px;margin-top:-7px;color:red;}\n.small-icons{padding:0 10px 0 0;}\n\n.collapsecontent {\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n	padding: 0px 10px 10px 10px;\n	\n}\n\n\n.addcontact {\n	padding: 10px 0px 10px 10px;\n	margin-top: 10px;\n}\n\n\n.submitbuttons{\n	float: right;\n	margin: 0px 62px 28px 0px;\n}\n\n.submitbuttons-single{\n	margin: 0px 62px 28px 0px;\n}\n\n.changepassword {\n	padding:0px 200px 0px 200px;\n}\n\n\n/*\n * Main Section Header\n ***********************************************************/\n#main header .ico {\n	float: left;\n	margin: 1px 10px 0 4px;\n}\n\n\n/*\n * Payment Coupon\n ***********************************************************/\n \n .paymentcoupon-header{\n 	 	width: 800px;\n 	 	margin: 10px;\n 	 	padding: 0px 0px 10px 0px;\n 	 	border-bottom: 1px dashed #000;\n }\n \n .paymentcoupon-header h1{\n 	 font-size: 19px;\n 	 font-weight: 600;\n 	 color: #517891;\n }\n \n .paymentcoupon{\n 	width: 720px;\n 	height: 200px;\n 	background: white;\n 	-webkit-box-shadow: 4px 5px 0px rgba(0, 0, 0, 0.7);\n 	-moz-box-shadow: 4px 5px 0px rgba(0, 0, 0, 0.7);\n 	box-shadow: 4px 5px 0px rgba(0, 0, 0, 0.7);\n 	border: 1px solid #000;\n 	margin: 20px 10px 10px 10px;\n 	padding: 30px;\n }  \n \n .paymentcoupon .logo{\n	width: 182px;\n	height: 68px;\n 	float: left;\n 	margin: 0px 10px 10px 0px;\n }\n\n .paymentcoupon p{\n 	font-size: 13px;\n 	line-height: 17px;\n }\n\n .paymentcoupon .payaddress{\n	 margin-left: 10px;\n }\n \n .rightside{\n 	width:500px;\n }\n\n .nomargin{\n 	margin: 0px !important;\n }\n \n .mailto{\n 	margin: 118px 0px 0px 5px;\n }\n\n .paymentcoupon .totaldue{\n 	font-size: 23px;\n }\n\n .paymentcoupon .subtotaldue{\n 	font-size: 19px;\n } \n \n .writebox{\n 	width: 100px;\n 	height: 20px;\n	border-bottom: 1px solid #000;\n	border-left: 1px solid #000;\n	margin: 0px 0px 0px 10px;\n }\n \n .totalcontainer{\n 	width: 400px;\n 	text-align: right;\n }\n \n/*\n * Info Cells\n ***********************************************************/\n\n.cellcontainer {\n	margin-top: 10px;\n}\n\n.cell {\n	float: left;\n	background: #ececec;\n	min-height: 92px;\n	text-shadow: 0 1px 0 #fff;\n}\n\n.cell .info{\n	font-size:10px;\n	line-height:12px;\n	color:#808080;\n	padding: 10px;\n}\n\n\n.cell .info dt{padding:7px 0 1px;}\n.cell .info dd{\n	font-size:14px;\n	line-height:16px;\n	color:#333;\n}\n.cell .info dd.date{\n	font-size:12px;\n	line-height:14px;\n} \n\n.leftofbox {\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;	\n	\n}\n\n\n.rightofbox {\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n}\n\n.fullbox {\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n	border: 0px !important;\n}\n\n.cellrow {\n	margin-left: 0;\n}\n\n.smallcell {\n	min-height: 65px;\n}\n\n.contactbtncell{\n	padding: 20px 0px 10px 0px;\n}\n\n.cellbutton{\n	padding: 10px 10px 10px 20px;\n}\n\n.tablebuttoncell{\n	width: 115px;\n}\n\n/*\n * Tables\n ***********************************************************/\n.celltable .table {\n	background: #fff;\n}\n.celltable .table-bordered {\n	border: 1px solid #a3a3a3;\n	border-collapse: collapse;\n}\n.celltable .table-bordered th, .celltable .table-bordered td {\n	border-left: 1px solid #a3a3a3;\n}\n.celltable .table thead th {\n	vertical-align:middle;\n	border-bottom:0px;\n}\n.celltable .table th {\n	color: 808080;\n}\n.celltable .table tbody th {\n	background: #dfdfdf;\n	color: #4c4d4f;\n	border:1px solid #a3a3a3;\n}\n\n.celltable .table td {\n	border:0px;\n	background: #ececec;\n	border: 1px solid #cfcfcf;\n	\n}\n\n.celltable .table tr {\n	border-bottom: 1px solid #fff;\n}\n\n.celltable .table.table-groups tbody td {\n	border: none;\n	padding: 0 0;\n}\n.celltable .table.table-groups tbody td:first-child {\n	border-right: 0px;\n}\n.celltable .table.table-groups tbody .total td {\n	border-bottom: 0px;\n}\n.celltable .table.table-groups tbody .total td:first-child {\n	text-align: center;\n}\n\n.celltable .table-bordered thead:first-child tr:first-child th:first-child, .table-bordered tbody:first-child tr:first-child td:first-child {\n	-webkit-border-radius:none;\n	-border-radius:none;\n	-moz-border-radius:none;\n}\n\n\n\n.celltable .table th {\n	font-weight: normal;\n	padding: 8px;\n	line-height: 11px;\n	text-align: left;\n	vertical-align: top;\n	border-top: 0px;\n}\n.celltable .table-condensed td {\n	padding: 0px 0px;\n}\n\n.celltable.well {\n	margin: 17px 0px 4px 0px;\n	padding: 10px;\n}\n\n.celltable.well table {\n	margin-bottom: 0px;\n}\n\n.well table th {\n	background-color: whiteSmoke;\n}\n\n.pending .cell .info dd {\n	/* color: #517891 !important; */\n	font-weight: 500;\n	font-style: italic;\n}\n\n.emphasize {\n	/* color: #517891 !important; */\n	font-weight: 600 !important;\n	font-size: 17px !important;\n}\n\n.pending .emphasize {\n	color: #f00 !important;\n}\n\n\n/* acountinfo */\n\n.accountinfotable {\n	padding: 5px 0px 0px 0px;\n\n}\n\n.accountinfotable .table {\n	background: transparent;\n	margin-left: 0px;\n	margin-bottom: 0px;\n	margin-top: 15px;\n	width: 90%;\n}\n	\n}\n.accountinfotable .table-bordered {\n	border: 1px solid #a3a3a3;\n	border-collapse: collapse;\n}\n.accountinfotable .table-bordered th, .accountinfotable .table-bordered td {\n	border-left: 1px solid #a3a3a3;\n}\n.accountinfotable .table thead th {\n	vertical-align:middle;\n	border-bottom:0px;\n}\n.accountinfotable .table th {\n	color: 808080;\n}\n.accountinfotable .table tbody th {\n	background: transparent;\n	color: #b9b9b9;\n	border:0px;\n}\n\n.accountinfotable .table td {\n	border: 0px;\n	background: #ececec;\n	border-left: 0px;\n	padding: 14px;\n}\n\n.accountinfotable .table tr {\n	border-bottom: 0px;\n}\n\n.accountinfotable .table.table-groups tbody td {\n	border: none;\n	padding: 0 0;\n}\n.accountinfotable .table.table-groups tbody td:first-child {\n	border-right: 0px;\n}\n.accountinfotable .table.table-groups tbody .total td {\n	border-bottom: 0px;\n}\n.accountinfotable .table.table-groups tbody .total td:first-child {\n	text-align: center;\n}\n\n.accountinfotable .table-bordered thead:first-child tr:first-child th:first-child, .table-bordered tbody:first-child tr:first-child td:first-child {\n	-webkit-border-radius:none;\n	-border-radius:none;\n	-moz-border-radius:none;\n}\n\n.accountinfotable .table th, .accountinfotable .table td {\n	text-align: left;\n	vertical-align: top;\n	border-top: 0px;\n	padding: 0px 5px;\n}\n\n.accountinfotable .table th {\n	font-weight: normal;\n	padding: 8px;\n	line-height: 11px;\n	text-align: left;\n	vertical-align: top;\n	border-top: 0px;\n}\n.accountinfotable .table-condensed td {\n	padding: 0px 0px;\n}\n\n\n.accounts .cell {\n	background: transparent;\n	min-height: 0px;\n	text-shadow: 0 1px 0 #f5f5f5 !important;\n}\n\n.accounts .cell .info {\n	color: #616161;\n	padding: 0px !important;\n}\n\n.accounts .cell .info dt, .accounts .cell .info dd {\n	font-size: 12px;\n	line-height: 12px;\n	color: #4d4d4d !important;\n	font-weight: 800;	\n}\n\n.uppercase {\n	text-transform: uppercase;\n	font-weight: 200;\n	margin-right: 1px;\n	color: #616161 !important;\n	font-size: 10px;\n}\n\n.btn-payonline {\n	padding: 0px 14px;\n	font-size: 12px !important;\n	font-weight: 700 !important;\n}\n\n.btn-smallcell {\n	/* padding: 0px 8px !important; */\n	padding: 0px 17px 0px 33px !important;\n	font-size: 13px !important;\n	font-weight: 500 !important;\n}\n\n.buttoncell {\n	padding-top: 6px !important;\n\n}\n\n.vehicledesc {\n	font-size: 14px;\n}\n\n.accounts .vin{\n	font-size: 12px;\n}\n\n\n.profile-celltable .table {\n	background: transparent;\n	margin-bottom: 0px;\n	width: 100%;\n}\n.profile-celltable .table-bordered {\n	border: 1px solid #a3a3a3;\n	border-collapse: collapse;\n}\n.profile-celltable .table-bordered th, .profile-celltable .table-bordered td {\n	border-left: 1px solid #a3a3a3;\n}\n.profile-celltable .table thead th {\n	vertical-align:middle;\n	border-bottom:0px;\n}\n.profile-celltable .table th {\n	color: 808080;\n}\n.profile-celltable .table tbody th {\n	background: #dfdfdf;\n	color: #4c4d4f;\n	border-left:1px solid #a3a3a3;\n	border-right:1px solid #a3a3a3;\n	border-bottom:1px solid #a3a3a3;\n	border-top:1px solid #a3a3a3;\n}\n\n.profile-celltable .table td {\n	background: #ececec;\n	border: 1px solid #cfcfcf;;\n}\n\n.profile-celltable .table tr {\n	border-bottom: 0px solid #fff;\n}\n\n.profile-celltable .table.table-groups tbody td {\n	border: none;\n	padding: 0 0;\n}\n.profile-celltable .table.table-groups tbody td:first-child {\n	border-right: 0px;\n}\n.profile-celltable .table.table-groups tbody .total td {\n	border-bottom: 0px;\n}\n.profile-celltable .table.table-groups tbody .total td:first-child {\n	text-align: center;\n}\n\n.profile-celltable .table-bordered thead:first-child tr:first-child th:first-child, .table-bordered tbody:first-child tr:first-child td:first-child {\n	-webkit-border-radius:none;\n	-border-radius:none;\n	-moz-border-radius:none;\n}\n\n.profile-celltable .table th {\n	font-weight: normal;\n	padding: 8px;\n	line-height: 11px;\n	text-align: left;\n	vertical-align: top;\n	border-top: 0px;\n}\n.profile-celltable .table-condensed td {\n	padding: 0px 39px 12px 0px;\n}\n\n.profile-celltable.well {\n	margin: 17px 0px 4px 0px;\n	padding: 10px;\n}\n\n.profile-celltable.well table {\n	margin-bottom: 0px;\n}\n\n.profile-celltable .cell {\n	margin-bottom: 0px;\n	min-height: 5px;\n}\n\n.profile-celltable .cell .info dt {\n	padding: 0px 0 0px;\n}\n\n.profile-celltable .cell .info dd {\n	font-size: 14px;\n	line-height: 16px;\n	color:#333;\n}\n.profile-celltable i::before {\n	left: 12px;\n	top: 7px;\n	font-size: 20px;\n	color: #4d4d4d;\n	text-shadow: 0 0px 0;\n}\n.profile-celltable .iconcell {	\n		padding: 0px !important;\n		width: 35px;\n		border-right: 0px !important;\n}\n.profile-celltable .nexttoicon {	\n		padding-left: 0px !important;\n		border-left: 0px !important; \n}\n\n.profile-celltable .nexttoicon .cell .info {\n	padding-left: 4px;\n}\n\n.profile-celltable .fixedwidth td{\n	width: 120px;\n}\n\n.profile-celltable .singleside td{\n	width: 220px !important;\n}\n\n\n/* Thin Cell Table */\n.thincelltable .table {\n	background: #fff;\n}\n.thincelltable .table-bordered {\n	border: 1px solid #a3a3a3;\n	border-collapse: collapse;\n}\n.thincelltable .table-bordered th, .thincelltable .table-bordered td {\n	border-left: 1px solid #a3a3a3;\n}\n.thincelltable .table thead th {\n	vertical-align:middle;\n	border-bottom:0px;\n}\n.thincelltable .table th {\n	color: 808080;\n}\n.thincelltable .table tbody th {\n	background: #dfdfdf;\n	color: #4c4d4f;\n	border:1px solid #a3a3a3;\n}\n\n.thincelltable .table td {\n	border:0px;\n	background: #ececec;\n	border-left: 1px solid #fff;\n}\n\n.thincelltable .table tr {\n	border-bottom: 1px solid #fff;\n}\n\n.thincelltable .table.table-groups tbody td {\n	border: none;\n	padding: 0 0;\n}\n.thincelltable .table.table-groups tbody td:first-child {\n	border-right: 0px;\n}\n.thincelltable .table.table-groups tbody .total td {\n	border-bottom: 0px;\n}\n.thincelltable .table.table-groups tbody .total td:first-child {\n	text-align: center;\n}\n\n.thincelltable .table-bordered thead:first-child tr:first-child th:first-child, .table-bordered tbody:first-child tr:first-child td:first-child {\n	-webkit-border-radius:none;\n	-border-radius:none;\n	-moz-border-radius:none;\n}\n\n.thincelltable .table th {\n	font-weight: normal;\n	padding: 8px;\n	line-height: 11px;\n	text-align: left;\n	vertical-align: top;\n	border-top: 0px;\n}\n.thincelltable .table-condensed td {\n	padding: 0px 0px;\n}\n\n.thincelltable.well {\n	margin: 17px 0px 4px 0px;\n	padding: 10px;\n}\n\n.thincelltable.well table {\n	margin-bottom: 0px;\n}\n\n.editarea {\n	display: inline;\n	cursor: pointer;\n}\n\n.editarea:hover {\n	background: #5c5c5c;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;	\n	padding: 3px;\n	text-shadow: 0px 1px 0px #676767;\n	color: #fff;\n}\n.roundedarea {\n	display: inline;\n	background: #e7e7e7;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;	\n	padding: 15px;\n	margin-bottom: 10px;\n	/* min-height: 102px !important; */\n	border: 1px solid #dddddd;\n	text-shadow: 0px 1px 0px #ffffff;\n}\n.roundedarea h3{\n	font-size: 15px;\n	font-weight: 600;\n	text-shadow: 0px 1px 0px #ffffff;\n	\n}\n\n.roundedarea a{\n	/* text-decoration: underline; */\n}\n\n.roundedarea a:hover{\n/*\n	text-decoration: underline;\n	color: #fff;\n\n	padding: 3px 3px 3px 3px;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n	background-color: #242424;\n*/\n}\n.roundedarea .label{\n	text-shadow: none;\n}\n.resetstatus {\n	background-color: #d5f5c7;\n}\n\n.lockedstatus {\n	background-color: #f5e4c7;\n\n}\n\n.disabledstatus {\n	background-color: #f9dada;\n}\n.deletestatus {\n	background-color: #eadff1;\n}\n\n.formarea {\n	background-color: #f6f6f6;\n}\n\n.tinyedit{\n	margin-left: 5px;\n}\n.btn-tiny{\n	padding: 1px 15px 1px 15px;\n	font-size: 12px;\n	font-weight: 600 !important;\n	line-height: 16px;\n	margin-bottom: 3px;\n}\nselect.adminselect{\n	height: 36px !important;\n}\n\n.label-blueinfo, .badge-blueinfo {\n	background-color: #3a87ad;\n}\n.superp{\n	font-size: 18px !important;\n}\n.smallp{\n	font-size: 12px !important;\n}\n.tooltip{\n	text-shadow: none !important;\n}\n.smallermodal{\n	max-height: 500px !important;\n	overflow: scroll !important;\n	width: 500px !important;\n	margin: -250px 0 0 -250px !important;\n}\n\n/*\n * Forms\n ***********************************************************/\n\nselect, input[type=\"file\"] {\n	height: 28px;\n	line-height: 28px;\n}\n\nlabel {\n	display: block;\n	margin-bottom: 0px;\n	color: #808080;\n	font-size: 14px;\n}\n\ninput, textarea, select, .uneditable-input {\n	margin-bottom: 7px;\n	border: 1px solid #cccccc;\n}\n\ntextarea, input[type=\"text\"], input[type=\"password\"], input[type=\"datetime\"], input[type=\"datetime-local\"], input[type=\"date\"], input[type=\"month\"], input[type=\"time\"], input[type=\"week\"], input[type=\"number\"], input[type=\"email\"], input[type=\"url\"], input[type=\"search\"], input[type=\"tel\"], input[type=\"color\"], .uneditable-input{\n\n	border: 1px solid #cccccc;\n\n}\n\n\n.control-group .help-block {\n	display: none !important;\n}\n\n.control-group.error .help-block  {\n	display: block !important;\n}\n\n\n.help-block {\n	margin-left: 7px;\n	line-height: 16px;\n	font-size: 12px;\n}\n\n.date-form input {\n	width: 130px;\n}\n\n.startend form {\n	margin: 0 0 9px;\n}\n\n.startend {\n	margin: 0px 0px 24px 0px;\n}\n\n.input-prepend .add-on, .input-prepend .btn {\nmargin-right: -1px;\n}\n\n.smallform .input-prepend .add-on, .input-append .add-on {\n	height: 20px !important;\n}\n\n.select-options{\n	background:#fff;\n	font-size:15px;\n	line-height:18px;\n	color:#333;\n}\n.select-options ul{\n	border:1px solid #ccc;\n	max-height:300px;\n	overflow:auto;\n	margin: 0px;\n}\n.select-options a{\n	color:#333;\n	display:block;\n	text-decoration:none;\n	padding:2px 5px;\n}\n.select-options a:hover{text-decoration:underline;}\n\n.small-label {\n	margin-top: 7px;\n	font-size: 13px;\n	line-height: 14px;\n	color: #a5a5a5;\n}\n\n.contactform{\n	margin-left: 50px;\n}\n\n.longform input, .longform textarea, .longform select, .longform .uneditable-input {\n	width: 320px;\n}\n.longform .checkboxtype{\n	width: auto;\n}\n\n.longformsubmit {\n	margin-bottom: 35px;\n}\n\n\n\n/*\n * Buttons\n ***********************************************************/\n.btn{\n	border: 0px;\n	margin-right: 10px;\n	font-weight: 600;\n}\n\n.btn:focus{\n	background-color: inherit;\n	color: #fff;\n}\n.btn-login {\n	margin-top: 0px;\n}\n\n.btn-large {\n	padding: 6px 40px;\n	font-size: 15px;\n}\n\n.btn-success {\n	background: #1c9c2e;\n}\n\n.btn-success:hover {\n	background: #156c21;\n} \n\n\n.btn-success-icon {\n	color: white;\n	background-color: #1c9c2e;\n	font-size: 14px;\n	font-weight: 600;\n	padding: 7px 25px 7px 37px;\n}\n\n.btn-success-icon:hover {\n	background-color: #156c21;\n	color: white;\n}\n\n.btn-success-icon i::before {\n	left: -16px;\n	top: 5px;\n	font-size: 14px;\n	color: #fff;\n	text-shadow: none;\n}\n\n.btn-success-icon .glyphicons {\n	padding: 5px 0 5px 3px;\n}\n\n.btn-success-icon-small {\n	color: white;\n	background-color: #1c9c2e;\n	font-size: 14px;\n	font-weight: 600;\n	padding: 7px 25px 7px 37px;\n}\n\n.btn-success-icon-small:hover {\n	background-color: #156c21;\n	color: white;\n}\n\n.btn-success-icon-small i::before {\n	left: -16px;\n	top: 5px;\n	font-size: 14px;\n	color: #fff;\n	text-shadow: none;\n}\n\n.btn-success-icon-small .glyphicons {\n	padding: 5px 0 5px 3px;\n}\n\n\n/* View Buttons */\n.btn-view {\n	background: #1c9c2e;\n}\n\n.btn-view:hover {\n	background: #156c21;\n} \n\n\n.btn-view-icon {\n	color: white;\n	background-color: #1c9c2e;\n	font-size: 14px;\n	font-weight: 600;\n	padding: 7px 25px 7px 37px;\n}\n\n.btn-view-icon:hover {\n	background-color: #156c21;\n	color: white;\n}\n\n.btn-view-icon i::before {\n	left: -18px;\n	top: 5px;\n	font-size: 14px;\n	color: #fff;\n	text-shadow: none;\n}\n\n.btn-view-icon .glyphicons {\n	padding: 0px 0 0px 5px;\n}\n\n\n\n\n\n\n.forgot-links i::before {\n	left: -13px;\n	top: -1px;\n	font-size: 14px;\n	color: #b9b9b9;\n	text-shadow: none;\n}\n\n.forgot-links .glyphicons {\n	padding: 5px 0 5px 3px;\n}\n\n.btn-block {\n	display: block;\n	width: 100%;\n	padding-right: 0;\n	padding-left: 0;\n	-webkit-box-sizing: border-box;\n	-moz-box-sizing: border-box;\n	box-sizing: border-box;\n}\n\n.btn-primary {\n	color: white;\n	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);\n	background-color: #f00;\n	border-color: #c00 #c00 #f00;\n}\n.btn-primary:hover {\n	background-color: #c00;\n}\n\n[class^=\"icon-\"], [class*=\" icon-\"] {\n	width:14px;\n	height:14px;\n	margin-top:2px;\n}\n\n\n/* btn-dark */\n.btn-dark {\n	color:#e6e6e6;\n	text-shadow: 0 -1px 0px rgba(0, 0, 0, 0.25);\n	background:#4d4d4d;\n	font-size: 12px;\n	font-weight: 800;\n	padding: 2px 12px 2px 29px;\n}\n\n.btn-dark:hover {\n	background:#7c7c7c;\n	text-decoration: none;\n	color:#e6e6e6;\n}\n\n.btn-dark:active {\n	background:#303030;\n	text-decoration: none;\n	color:#e6e6e6;\n}\n\n.btn-dark i::before {\n	left: -17px;\n	top: 4px;\n	font-size: 15px;\n	color: #fff;\n	text-shadow: 0px 1px 0px #2d2d2d;\n}\n\n.btn-dark .glyphicons {\n	padding: 5px 0 5px 3px;\n}\n\n\n.btn-primary-icon {\n	color: white;\n	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);\n	background-color: #f00;\n	border-color: #c00 #c00 #f00;\n	font-size: 12px;\n	font-weight: 800;\n	padding: 2px 12px 2px 29px;\n}\n\n.btn-primary-icon:hover {\n	background-color: #c00;\n	color: white;\n	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);\n	border-color: #c00 #c00 #f00;\n}\n\n.btn-primary-icon i::before {\n	left: -17px;\n	top: 5px;\n	font-size: 15px;\n	color: #fff;\n	/* text-shadow: 0px 1px 0px #2d2d2d; */\n}\n\n.btn-primary-icon .glyphicons {\n	padding: 5px 0 5px 3px;\n}\n\n\n/* btn-collapse */\n\n\n\n.btn-collapse {\n	background:#f5f5f5;\n	margin-top: 14px;\n	padding-top: 10px;\n	text-align: left;\n	padding-left: 19px;\n}\n\n.btn-collapse:hover {\n	background:#f2f2f2;\n}\n\n\n\n/* button list */\n\n.square-btn {\n	\n	width:53px;\n	height: 53px;\n	overflow:hidden;\n	display: inline-table;\n	*display: inline;\n	/* IE7 inline-block hack */\n	*zoom: 1;\n	padding: 2px 2px;\n	margin-bottom: 0;\n	font-size: 11px;\n	font-weight: 600;\n	line-height: 11px;\n	*line-height: 11px;\n	text-align: center;\n	vertical-align: middle;\n	cursor: pointer;\n	color:#e6e6e6;\n	text-shadow: none;\n	background:#4d4d4d;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n	*margin-left: .3em;\n	-webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);\n	-moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);\n	box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);\n		\n}\n\n.square-btn:hover {\n	background:#7c7c7c;\n	text-decoration: none;\n	color:#e6e6e6;\n}\n\n.square-btn:active {\n	background:#303030;\n	text-decoration: none;\n	color:#e6e6e6;\n}\n\n.square-btn .inside{\n	display:table-cell;\n	vertical-align:middle;\n	text-align: center;\n	font-size: 11px;\n	*display:inline;\n	*position: absolute; \n	*top: 50%;\n}\n\n\n.square-btn-img {\n	margin-bottom: 3px;\n}\n\n.buttons{\n	float:right;\n	font-size:11px;\n	margin:5px 0 0;\n	line-height:12px;\n}\n.buttons li{\n	float:left;\n	padding:0 0 0 5px;\n	margin-right: 4px;\n}\nul.buttons {\n	list-style:none;\n}\n\n\n.no-add .input-prepend .add-on, .input-prepend .btn, .input-append .add-on, .input-append .btn {\nmargin-left: 14px;\n-webkit-border-radius: 0px;\n-moz-border-radius: 0px;\nborder-radius: 0px;\n\n}\n\n.link-btn{\n/*\n	color: 	#4d4d4d;\n	background: #ccc;\n*/\n	text-decoration: none;\n	-moz-border-radius: 0px;\n	-webkit-border-radius: 0px;\n	-khtml-border-radius: 0px;\n	border-radius: 0px;\n	overflow: hidden;\n	padding: 1px 20px 3px 20px;\n/* 	text-shadow: 0px 1px 0px #fff; */\n}\n\n.link-btn:hover{\n/*\n	color:#f1f1f1;\n	background:#4f4f4f;\n*/\n	text-decoration: none;\n/* 	text-shadow: 0px 1px 0px #000; */\n}\n\n/*\n * Accoridons\n ***********************************************************/\n\n.profile-info .accordion-group {\n	margin-bottom: 2px;\n	border: 1px solid #e5e5e5;\n	-webkit-border-radius: 0px;\n	-moz-border-radius: 0px;\n	border-radius: 0px;\n	margin-top: 14px;\n	background: #f5f5f5;\n}\n\n.profile-info .accordion-inner {\n	padding: 9px 15px 33px 15px;\n	border-top: 1px solid #e5e5e5;\n}\n\n.profile-info .accordion-heading .accordion-toggle {\n	display: block;\n	padding: 0px;\n	color: #000;\n	font-size: 15px;\n}\n\n.profile-info .accordion-heading a.accordion-toggle{\n	padding: 10px;\n}\n\n.profile-info .accordion-heading a.accordion-toggle:hover{\n	text-decoration: none;\n}\n\n.profile-info .accordion-heading {\n	border-bottom: 0;\n	background: #fafafa;\n	padding: 6px;\n}\n\n.profile-info .accordion-heading:hover {\n	background: #f1f1f1;\n}\n\n.profile-info .accordion-toggle i::before {\n	left: 2px;\n	top: -1px;\n	font-size: 22px;\n	color: #4d4d4d;\n}\n\n\n/*\n * Profile Forms\n ***********************************************************/\n\n.smallform .control-group {\n	margin-bottom: 0px;\n	\n}\n\n.smallform input, .uneditable-input {\n	height: 20px;\n}\n\n\n\n/*\n * Footer\n ***********************************************************/\n#footer {\n	position: relative;\n    margin-top: 10px;\n	height: 200px;\n	font-size: 11px;\n	padding: 20px;\n	background: #2c2c2c;\n	color: #fff;\n\n}\n\n/*\n * Glyphicons\n ***********************************************************/\n\n\n.date-form .glyphicons i::before {\n	font-size: 17px !important;\n	color: #626262 !important;\n	padding: 6px 0px 0px 5px;\n	text-shadow: 0 1px 0 #fff;\n	\n}\n\n.smallform .date-form .glyphicons i::before {\n	font-size: 15px !important;\n	color: #626262 !important;\n	padding: 7px 0px 0px 6px;\n	text-shadow: 0 1px 0 #fff;\n	\n}\n\n\n\n/*\n * Misc\n ***********************************************************/\n.text-left,\n.table .text-left {\n	text-align: left;\n}\n.text-center,\n.table .text-center {\n	text-align: center;\n}\n.text-right,\n.table .text-right {\n	text-align: right;\n}\n.float-left {\n	float: left;\n}\n.assistive-text {\n	position: absolute !important;\n	clip: rect(1px 1px 1px 1px); /* IE6, IE7 */\n	clip: rect(1px, 1px, 1px, 1px);\n}\n\n.table-bordered thead:first-child tr:first-child th:last-child, .table-bordered tbody:first-child tr:first-child td:last-child, .table-bordered thead:last-child tr:last-child th:last-child, .table-bordered tbody:last-child tr:last-child td:last-child, .table-bordered tfoot:last-child tr:last-child td:last-child {\n	border-radius:0px;\n	-webkit-border-radius:0px;\n	-moz-border-radius:0px;\n}\n\n.texticontoggle-small{\n	display: none;\n}\n.texticontoggle-big{\n	display: block;\n}\n/*\n * Modals\n ***********************************************************/\n\n.modal {\n	max-height: 500px;\n	overflow: scroll;\n	width: 790px;\n	margin: -250px 0 0 -395px;\n}\n\n.modal-small {\n	width: 560px !important;\n	margin: -250px 0 0 -280px !important;\n}\n\n.modal.fade.in {\n	top: 50%;\n}\n\n\n/*\n * Footer\n ***********************************************************/\n#footer {\n	padding:20px 20px;\n}\n\n#footer a {\n	color: #fff;\n	font-size: 15px;\n}\n\n#footer a:hover {\n	color: #eeeeee;\n	text-decoration: underline;\n}\n \n\n/* \n\n\n \n/*\n * Ad Hoc\n ***********************************************************/\n\n/* label.control-label { line-height: 1em; font-weight: bold; } */\nspan.muted { line-height: .75em; }\n.alert-message { line-height: 1.1em; font-size: 1em; }\n\n.radiocontainer{\n	margin-left: 20px;\n	margin-bottom: 25px;\n}\n\n.sub{\n	line-height: 0px;\n	margin: 0px 0px 0px 5px;\n	font-size: 10px;\n}\n\n.withsub{\n	line-height: 13px;\n	margin-bottom: 13px;\n}\n.spacebelow{\n	margin-bottom: 10px;\n}\n\n.commprefs h3{\n	font-size: 16px;\n}\n\n.borderright{\n	min-height: 215px;\n	float: left;\n	border-right: 1px solid #ccc;\n	margin: 20px 0px 0px -25px;\n	width: 1px;\n}\n\n\n.container,\n.navbar-fixed-top .container,\n.navbar-fixed-bottom .container {\n  width: 944px;\n}\n\n.accountcontainer .payment{\n	float: right;\n	margin-right: 60px;\n}\n\n\n\n/*\n * Responsive\n ***********************************************************/\n/* Above Tablet. Fixed at 960px */\n\n@media (min-width: 1200px) {\n	\n	.navbar .nav > li, .minimenu > li {\n		min-width: 130px; \n	}\n	\n	.navbar-fixed-top .container, .navbar-fixed-bottom .container {\n		width: 1170px;\n	}\n	\n	.login-container {\n		padding: 0px 200px 0px 200px;\n	}\n	\n	.forgot-links {\n		text-align: center;\n		padding: 35px 140px 0px 140px;\n	}\n	\n	.cell .info {\n		font-size: 11px;\n	}\n	\n	.date-form input {\n		width: 180px;\n	}\n	.container,\n	.navbar-fixed-top .container,\n	.navbar-fixed-bottom .container {\n	  width: 1170px;\n	}\n	.accountcontainer .payment{\n		float: right;\n		margin-right: 60px;\n	}\n	.texticontoggle-small{\n		display: none;\n	}\n	.texticontoggle-big{\n		display: block;\n	}\n		\n	\n}\n \n\n/* Tablet landscape and under. */\n@media (max-width: 979px) {\n	body {\n		padding: 0;\n	}\n	.navbar-fixed-top {\n		margin-bottom: 0;\n		margin-right: 0;\n		min-width:320px;\n	}\n	.nav-collapse {\n		clear:both !important;\n	}\n	.minimenu {\n		display: block !important;\n	}\n	\n	.navbar .nav > li, .minimenu > li {\n		min-width: 130px !important; \n	} \n	\n	.navbar-fixed-top .container, .navbar-fixed-bottom .container {\n		width: auto;\n	}\n	\n	.login-container {\n		padding: 0px 60px 0px 60px;\n	}\n	\n	.date-form input {\n		width: 87px;\n	}\n	\n	.btn-payonline {\n		padding: 0px 8px !important;\n	}\n	.accountcontent {\n		padding: 0px 0px 20px 6px;\n	}\n	.profile-celltable .table-condensed td {\n		padding: 0px 0px 12px 0px;\n	}\n	.profile-celltable .cell .info dd {\n		font-size: 14px;\n	}\n	.smallform input, .smallform textarea, .smallform select, .smallform .uneditable-input {\n		width: 150px;\n	}\n	.smallform .checkboxtype{\n		width: auto;\n	}\n	.longform input, .longform textarea, .longform select, .longform .uneditable-input {\n		width: 320px;\n	}\n	.longform .checkboxtype{\n		width: auto;\n	}\n	.modal {\n		width: 620px;\n		margin: -250px 0 0 -310px;\n	}\n	.mainaccountsbox .alerts{\n		padding: 20px 5px 10px 7px;\n	}\n	.commprefs h3{\n		font-size: 16px;\n		line-height: 21px;\n		margin-bottom: 13px;\n	}\n	.commprefs .withsub{\n		line-height: 21px;\n		margin-bottom: 0px;\n	}\n	.borderright{\n		display: none;\n	}\n	.container,\n	.navbar-fixed-top .container,\n	.navbar-fixed-bottom .container {\n	  width: 724px;\n	}\n	.accountcontainer .payment{\n		float: none;\n		margin-right: 0px;\n	}\n	.tablebuttoncell{\n		width: 115px;\n	}\n	.btn-smallcell {\n		padding: 0px 17px 0px 33px !important;\n	}\n	.texticontoggle-small{\n	display: none;\n	}\n	.texticontoggle-big{\n		display: block;\n	}\n\n}\n\n/* Tablet portrait and under. */\n@media (max-width: 767px) {\n	/*\n	 * When the sidebar is active, we set a width for #main so it\n	 * appears to be pushed off the screen (rather than fluid)\n	 */\n	.sidebar-active #main {\n		width: 100%;\n		min-width: 767px;\n	}\n\n	.settings-dropdown {\n		margin-top:-5px !important;\n	}\n\n	a.btn.btn-navbar {\n		/* margin-top:8px !important; */\n		z-index: 4000;\n	}	\n	\n	.navbar .btn-group {\n		padding:5px 5px 6px;\n	}\n	\n	.navbar .brand {\n		padding: 6px 20px 14px 45px;\n		margin-top: 0px;\n		width: 45%;\n	}\n	\n	.navbar {\n		margin-top: 0px;\n	}\n	\n	.calendar-width-fix {\n		width:auto;\n	}\n	\n	.appointment-input {\n		width:auto;\n		margin-top:10px;\n	}\n	\n	.minimenu {\n		display: block !important;\n		margin: 0px -20px 0 0 !important;\n	}\n	\n	.navbar .nav > li, .minimenu > li {\n		min-width: 130px !important; \n	} \n	\n	.top-panel {\n		display: none;\n	}\n	\n	.login-container {\n		padding: 0px 60px 0px 60px;\n	}\n	\n	.forgot-links {\n		text-align: center;\n		padding: 35px 0px 0px 0px;\n	}\n	\n	.row-fluid [class*=\"span\"] {\n		min-height: 0px;\n	}\n	.submenu {\n		margin: 20px 5px 0px 5px\n	}\n	.submenu .nav > li > a.active::before {\n		border: 0px solid transparent;\n		border-width: 0px;\n		border-left-color: transparent;\n	}\n	\n	.profile-celltable .table-condensed td {\n		padding: 0px 0px 12px 0px;\n	}\n	.profile-celltable .emphasize {\n		font-size: 14px !important;\n	}\n\n	.smallform input, textarea, select, .uneditable-input {\n		width: 90%;\n	}\n	.smallform .checkboxtype{\n		width: auto;\n	}\n	.contactform{\n		margin-left: 0px;\n	}\n	.longform input, textarea, select, .uneditable-input {\n		width: 90%;\n	}\n	.longform .checkboxtype{\n		width: auto;\n	}\n	.modal{\n		position: absolute;\n		top: 10px;\n		left: 10px;\n		right: 10px;\n		width: auto;\n		margin: 0;\n	}\n	.borderright{\n		display: none;\n	}\n		.container,\n	.navbar-fixed-top .container,\n	.navbar-fixed-bottom .container {\n	  width: auto;\n	}\n	.accountcontainer .payment {\n	width: 88%;\n	float: none;\n	margin-right: 0px;\n	}\n	.tablebuttoncell{\n		width: 113px;\n	}\n	.btn-smallcell {\n		padding: 0px 17px 0px 33px !important;\n	}\n	.texticontoggle-small{\n		display: none;\n	}\n	.texticontoggle-big{\n		display: block;\n	}	\n\n}\n\n/* Mobile. */\n@media (max-width: 480px) {\n	#main-container {\n		min-width:320px;\n	}\n	.top-panel {\n		display: none;\n	}\n	.login-container {\n		padding: 0px 0px 0px 0px;\n	}\n\n	.row-fluid [class*=\"span\"] {\n		min-height: 0px;\n	}\n	.forgot-links {\n		text-align: center;\n		padding: 0px 0px 0px 0px;\n	}\n	.buttons{\n		font-size:11px;\n		margin:5px 0px 10px 0px;\n		line-height:12px;\n		float: left;\n	}\n	\n	.submenu {\n		margin: 40px 5px 0px 5px\n	}\n	\n	.submenu .nav > li > a.active::before {\n		border: 0px solid transparent;\n		border-width: 0px;\n		border-left-color: transparent;\n	}\n	\n	.contentbox{\n		padding: 10px;\n	}\n\n	.info{\n		padding: 3px;\n	}\n	\n	.date-form input {\n		width: 180px;\n	}\n	.emphasize {\n		/* color: #f00 !important; */\n		font-weight: 600 !important;\n		font-size: 14px !important;\n	}\n	\n	.accountcontainer .account-info{\n		padding: 4px 0px 5px 0px;\n	}\n	.accountcontainer .status {\n		padding: 7px 0 6px 11px;\n	}\n	.accountcontainer .title span {\n		padding: 17px 11px 21px;\n		background: none;\n		border-right: 0px;\n	}\n	.accountcontainer .title {\n		border-right: 0px;\n	}\n	.mainaccountsbox{\n		padding: 6px;\n	}\n	.accountcontainer .payment {\n		width: 88%;\n	}\n	.content .celltable {\n		max-width: 295px;\n	}\n	.smallform input, textarea, select, .uneditable-input {\n		width: 90%;\n	}\n	.smallform .checkboxtype{\n		width: auto;\n	}\n	.contactform{\n		margin-left: 0px;\n	}\n	.modal{\n		position: absolute;\n		top: 10px;\n		left: 10px;\n		right: 10px;\n		width: auto;\n		margin: 0;\n	}\n	.submitbuttons{\n		float:  none;\n		margin: 0px;\n	}\n	.btn-large{\n	padding: 6px 30px;\n	}\n	.borderright{\n		display: none;\n	}\n	.texticontoggle-small{\n		display: block;\n	}\n	.texticontoggle-big{\n		display: none;\n	}\n	.tablebuttoncell{\n		width: 5px;\n	}\n	.btn-smallcell {\n    	padding: 0 0 0 15px !important;\n    }\n    .btn-view-icon i:before {\n	    color: #2b2b2b;\n	    font-size: 21px;\n	    left: -14px;\n	    text-shadow: none;\n	    top: 5px;\n    }\n\n\n}\n\n@media print\n {\n  body {\n	 background: #fff;\n	}\n	\n  .navbar{\n	  display: none;\n  }\n\n  .submenu {\n  	display: none;\n  }\n  \n  .accountbox{\n  	display: none;\n  }\n  .square-btn{\n  	display: none;\n  }\n  .top-panel{\n  	display: none;\n  }\n  #footer{\n  	display: none;\n  }\n  select, input {\n  	display: none;\n  }\n  .startend{\n  	display: none;\n  }\n  .borderright{\n	display: none;\n  }\n}\n\n/*\n * 3rd Party\n ***********************************************************/\n\n /*\n	Datepicker for Bootstrap\n	Copyright 2012 Stefan Petre\n	Licensed under the Apache License v2.0\n	http://www.apache.org/licenses/LICENSE-2.0\n*/\n .datepicker { top: 0; left: 0; padding: 4px; margin-top: 1px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; /*.dow { border-top: 1px solid #ddd !important; }*/ } .datepicker:before { content: ''; display: inline-block; border-left: 7px solid transparent; border-right: 7px solid transparent; border-bottom: 7px solid #ccc; border-bottom-color: rgba(0, 0, 0, 0.2); position: absolute; top: -7px; left: 6px; } .datepicker:after { content: ''; display: inline-block; border-left: 6px solid transparent; border-right: 6px solid transparent; border-bottom: 6px solid #ffffff; position: absolute; top: -6px; left: 7px; } .datepicker > div { display: none; } .datepicker table { width: 100%; margin: 0; } .datepicker td, .datepicker th { text-align: center; width: 20px; height: 20px; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; } .datepicker td.day:hover { background: #eeeeee; cursor: pointer; } .datepicker td.old, .datepicker td.new { color: #999999; } .datepicker td.active, .datepicker td.active:hover { background-color: #517891; background-image: -moz-linear-gradient(top, #517891, #517891); background-image: -ms-linear-gradient(top, #517891, #517891); background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#517891), to(#517891)); background-image: -webkit-linear-gradient(top, #517891, #517891); background-image: -o-linear-gradient(top, #517891, #517891); background-image: linear-gradient(top, #517891, #517891); background-repeat: repeat-x; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#517891', endColorstr='#517891', GradientType=0); border-color: #517891 #517891 #517891; border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25); filter: progid:DXImageTransform.Microsoft.gradient(enabled = false); color: #fff; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25); } .datepicker td.active:hover, .datepicker td.active:hover:hover, .datepicker td.active:active, .datepicker td.active:hover:active, .datepicker td.active.active, .datepicker td.active:hover.active, .datepicker td.active.disabled, .datepicker td.active:hover.disabled, .datepicker td.active[disabled], .datepicker td.active:hover[disabled] { background-color: #517891; } .datepicker td.active:active, .datepicker td.active:hover:active, .datepicker td.active.active, .datepicker td.active:hover.active { background-color: #517891 \\9; } .datepicker td span { display: block; width: 47px; height: 54px; line-height: 54px; float: left; margin: 2px; cursor: pointer; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; } .datepicker td span:hover { background: #eeeeee; } .datepicker td span.active { background-color: #517891; background-image: -moz-linear-gradient(top, #517891, #517891); background-image: -ms-linear-gradient(top, #517891, #517891); background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#517891), to(#517891)); background-image: -webkit-linear-gradient(top, #517891, #517891); background-image: -o-linear-gradient(top, #517891, #517891); background-image: linear-gradient(top, #517891, #517891); background-repeat: repeat-x; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#517891', endColorstr='#517891', GradientType=0); border-color: #517891 #517891 #517891; border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25); filter: progid:DXImageTransform.Microsoft.gradient(enabled = false); color: #fff; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25); } .datepicker td span.active:hover, .datepicker td span.active:active, .datepicker td span.active.active, .datepicker td span.active.disabled, .datepicker td span.active[disabled] { background-color: #517891; } .datepicker td span.active:active, .datepicker td span.active.active { background-color: #003399 \\9; } .datepicker td span.old { color: #999999; } .datepicker th.switch { width: 145px; } .datepicker th.next, .datepicker th.prev { font-size: 19.5px; } .datepicker thead tr:first-child th { cursor: pointer; } .datepicker thead tr:first-child th:hover { background: #eeeeee; } /* .input-append.date .add-on i, .input-prepend.date .add-on i { display: block; cursor: pointer; width: 16px; height: 16px; } */",
+			"accountcontainer",
+			"ffffff",
+			"fffff",
+			"ffff",
+			"fff",
+			"color",
+			"background"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/bradkoehn/Dropbox/townsville/book-1/Townsville.txt",
+					"settings":
+					{
+						"buffer_size": 132732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88652,
+								88661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 89630.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 364.0,
+	"status_bar_visible": true
+}
