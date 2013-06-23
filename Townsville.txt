@@ -1,18 +1,18 @@
-﻿#Townsville
-###Pelagica: Book I 
-###by Douglas Asbury III
-##Chapter 1
+Townsville
+==========
 
-
-##Root 1
-
-
+Pelagica: Book I 
+*by Douglas Asbury III*
+Chapter 1
 Root 1
-My life and my task are primary
 
 
-Root 1.1
-All causes must uphold Root 1
+    Root 1
+    My life and my task are primary
+
+
+    Root 1.1
+    All causes must uphold Root 1
 
 
 #Billowsville
@@ -79,15 +79,13 @@ Liperton was recovering from the surprise,  but still coughed and choked out the
 "Amazing..." Liperton said, shaking his head.
 
 
-"Amazing?" asked the man genuinely.
-
-
+"Amazing?" asked the man genuinely. 
 
 
 "Truly amazing!" Liperton said, with his eye brows raised.
 
 
-"Yes, quite Amazing!" cried a deep voice behind them. Both men gasped as they turned to see who had spoke. A third man was walking behind them. 
+"Yes, quite Amazing!" cried a deep voice behind them. Both men gasped as they turned to see who had spoke. A third man was walking behind them.
 
 
 
@@ -133,8 +131,7 @@ Liperton was recovering from the surprise,  but still coughed and choked out the
 "Oh!" Liperton yelped in alarm. He stopped suddenly, spun around, reached up and grabbed Bouffard's face. He shook it with a helpful violence.
 
 
-
-
+"That's awesome" said Liperton.
 
 
 "Stop..." Liperton was shaking furiously, "...stop...your..." he continued shaking, "...smiling!" Bouffard's smile started to slowly faded.
@@ -147,7 +144,7 @@ Liperton was recovering from the surprise,  but still coughed and choked out the
 
 Liperton stopped shaking, "Are you sure?"
   
-"Yes, quite sure, thank you" Bouffard frowned. He stared at Liperton who was still holding his face by odd parts, not normally considered, by polite persons, to be handle-points.  "Do you mind?"
+"Yes, quite sure, thank you" Bouffard frowned. He stared at Liperton who was still holding his face by odd parts, not normally considered, by polite persons, to be handle-points.  "Do you mind?""
 
 
 "Oh, sorry" Liperton removed his hands.
@@ -794,20 +791,20 @@ Meadowfield had, by far, the most power-hungry and maniacal mayor in the history
 He had no need to worry, however, about anyone taking his mayorship from him for he had ensured (through some crafty bureaucracy) that his mayorship would remain until he died. But even after that he would remain because he had commissioned (tortured) a geniusman to figure out a way to duplicate him forever. The geniusman (since he was pretty smart) created the Mayorplicator, patent pending which doesn't officially exist:
 
 
-<"What does it do?"
->"It's a closet size machine that duplicates the mayor."
-<"Oh. Can anyone use it?"
->"No, just the mayor. If you walk into it, and you're not the mayor, you die a pretty slow and painful death: it sucks you up this vacuum chute and then slowly shreds you with these dull blades - pretty painful and messy."
-<"Ouch. How does it duplicate him exactly?"
->"Well, the formula for his body chemistry and genes and all that were stored in the machine years ago and recalculated to make him of optimal health and strength - so when he's duplicated, his body is near perfect - his mind and psyche are scanned and saved the moment he walks into the thing. Then, if he wants to be duplicated, he pushes the button."
-<"Fascinating! Then what happens?"
->"He gets sucked up the vacuum chute and gets shredded with these dull blades and then his duplicate walks out seven minutes later."
-<"Ouch. I would be scared to do it. It sounds too painful."
->"Well, the funny part is, he doesn't know that he gets sucked up and shredded - the geniusman (God rest his soul) conveniently left that part out of the instructions. And since the mayor's mind is scanned beforehand - his 'dupe' doesn't know it."
-<"Ha! Duped indeed!"
+>"What does it do?"
+"It's a closet size machine that duplicates the mayor."
+"Oh. Can anyone use it?"
+"No, just the mayor. If you walk into it, and you're not the mayor, you die a pretty slow and painful death: it sucks you up this vacuum chute and then slowly shreds you with these dull blades - pretty painful and messy."
+"Ouch. How does it duplicate him exactly?"
+"Well, the formula for his body chemistry and genes and all that were stored in the machine years ago and recalculated to make him of optimal health and strength - so when he's duplicated, his body is near perfect - his mind and psyche are scanned and saved the moment he walks into the thing. Then, if he wants to be duplicated, he pushes the button."
+"Fascinating! Then what happens?"
+"He gets sucked up the vacuum chute and gets shredded with these dull blades and then his duplicate walks out seven minutes later."
+"Ouch. I would be scared to do it. It sounds too painful."
+"Well, the funny part is, he doesn't know that he gets sucked up and shredded - the geniusman (God rest his soul) conveniently left that part out of the instructions. And since the mayor's mind is scanned beforehand - his 'dupe' doesn't know it."
+"Ha! Duped indeed!"
 
 
----END Eavesdrobot Transcribed Recording #467469azcv---
+*---END Eavesdrobot Transcribed Recording #467469azcv---
 
 
 Sending transcript to Mayoralty Office of Treasoners...
@@ -1086,7 +1083,7 @@ The three men stood staring at the notice, dumbfounded. They looked out at the o
 
 
 
-"DR. Allister A. Anagraham at your service. But people who know me call me ALagraham." Alagraham said grinning and putting out his hand for Liperton to shake (he put extreme accentuation on the L which revealed his truer identity). But Liperton would have nothing to do with his greeting. He slapped it away and looked at Bouffard. His stomach was turning, the world was starting to spin around him. He looked at Alagraham who retracted his hand. He looked back at Bouffard. And then Liperton turned to run. <flicker> And then Liperton turned to run. <flicker> And then Liperton turned to run. <flicker> And then Liperton turned to run...
+"DR. Allister A. Anagraham at your service. But people who know me call me ALagraham." Alagraham said grinning and putting out his hand for Liperton to shake (he put extreme accentuation on the L which revealed his truer identity). But Liperton would have nothing to do with his greeting. He slapped it away and looked at Bouffard. His stomach was turning, the world was starting to spin around him. He looked at Alagraham who retracted his hand. He looked back at Bouffard. And then Liperton turned to run. *flicker* And then Liperton turned to run. *flicker* And then Liperton turned to run. *flicker* And then Liperton turned to run...
 
 
 
@@ -1122,7 +1119,7 @@ The three men stood staring at the notice, dumbfounded. They looked out at the o
 
 
 
-"That's probably wise." said Alagraham as he approched the looping Liperton. And then Liperton turned to run. <flicker> And then Liperton turned to run, and Dr. Alagraham quickly took the house key-a-card out of Liperton's shirt pocket. And then Liperton continued to turn and turn and turn to run while Bouffard and Dr. Alagraham took off towards Liperton's house. 
+"That's probably wise." said Alagraham as he approched the looping Liperton. And then Liperton turned to run. *flicker* And then Liperton turned to run, and Dr. Alagraham quickly took the house key-a-card out of Liperton's shirt pocket. And then Liperton continued to turn and turn and turn to run while Bouffard and Dr. Alagraham took off towards Liperton's house. 
 
 
 
@@ -1420,18 +1417,11 @@ Excerpt 9.2
 
 
 
-Excerpt 9.2: ...When I succesfully enter a z-moment where the space is already occupied by myself (within about 30 feet), the memories, awareness, and experiences of that x-self (the self that had passed through) are interpolated (or intrapolated, as I call it) to the z-self (the self already in that moment) and then the x-self, when finished interpolating, ceases to exist and the body reduces to timedust. The first 8 times that I attempted this, I (the z-self) for some reason wept uncontrollably. It is an emotional experience, suddenly acquiring experiences and memories and immediate mental maturity.  After awhile, I got used to the interpolating. Now, I hardly ever weep. I tear up here and there, depending on how deep the experiences and knowledge are that I absorb. Incidentally, interpolating, I have found, can take anywhere from a nanosecond to 30 minutes. And another interesting side effect of a walk-through is, for some reason, the x-self's appearance changes to that of a very elderly person with a long white beard and long bushy white hair. My health is not deteriorated - I feel normal. It's just the outside that changes. The first time I intrapolated,  I didn't recognize my x-self. It was very confusing. Another interesting thing: If two x-selves come together (within 30ft.) they conjoin to form a y-self, or a mingle as I call them. I can tell a mingle apart from an x-self because the mingle's beard and hair grows longer every time he conjoins.
+>Excerpt 9.2: ...When I succesfully enter a z-moment where the space is already occupied by myself (within about 30 feet), the memories, awareness, and experiences of that x-self (the self that had passed through) are interpolated (or intrapolated, as I call it) to the z-self (the self already in that moment) and then the x-self, when finished interpolating, ceases to exist and the body reduces to timedust. The first 8 times that I attempted this, I (the z-self) for some reason wept uncontrollably. It is an emotional experience, suddenly acquiring experiences and memories and immediate mental maturity.  After awhile, I got used to the interpolating. Now, I hardly ever weep. I tear up here and there, depending on how deep the experiences and knowledge are that I absorb. Incidentally, interpolating, I have found, can take anywhere from a nanosecond to 30 minutes. And another interesting side effect of a walk-through is, for some reason, the x-self's appearance changes to that of a very elderly person with a long white beard and long bushy white hair. My health is not deteriorated - I feel normal. It's just the outside that changes. The first time I intrapolated,  I didn't recognize my x-self. It was very confusing. Another interesting thing: If two x-selves come together (within 30ft.) they conjoin to form a y-self, or a mingle as I call them. I can tell a mingle apart from an x-self because the mingle's beard and hair grows longer every time he conjoins. *End of Article*
 
+#BetweenSpace
 
-<End of Article>
-BetweenSpace
-
-
-
-
-
-
-   ...<flicker> And then Liperton turned to run, but before he did, Dr. Alagraham quickly took the house key-a-card out of Liperton's shirt pocket. Bouffard and Dr. Alagraham took off towards Liperton's house leaving Liperton to his looping fate.
+... *flicker* And then Liperton turned to run, but before he did, Dr. Alagraham quickly took the house key-a-card out of Liperton's shirt pocket. Bouffard and Dr. Alagraham took off towards Liperton's house leaving Liperton to his looping fate.
 
 
 As Liperton continued to turn and turn to run, TRACTUS sprung into action.
@@ -1724,7 +1714,7 @@ Somewhere beneath the city of Silton, Hillburt Bellsaunderson, a parking garage 
 In the hip pocket of the procumbent man, Hillburt finally found what he was looking for. From the hip pocket he pulled out a large set of key-a-cards held together by a sturdy, shiny, number-karat-gold box chain. He flipped through them until he found the correct car image. He stopped when he found the gray Hobson Protero. Then he grabbed the man on the ground, rolled him over, and started dragging him toward the car.
 
 
-With a wave of the key-a-card at the correct spot on the vehicle, Hillburt engaged the desired function.  <FLURNK>  The right-rear corner hatch of the late model Protero flurnked ajar.  <HHHAHHSSSSK>  The hatch hahsked to a fully open position.  Hillburt used novice technique to inefficiently place the indisposed parker into the corner hatch of one of his own parked cars.
+With a wave of the key-a-card at the correct spot on the vehicle, Hillburt engaged the desired function.  *FLURNK*  The right-rear corner hatch of the late model Protero flurnked ajar.  *HHHAHHSSSSK*  The hatch hahsked to a fully open position.  Hillburt used novice technique to inefficiently place the indisposed parker into the corner hatch of one of his own parked cars.
 
 
 
@@ -1761,19 +1751,14 @@ The clacking of the key-a-cards stopped.  Hillburt saw a car image that was so d
 "That's it.  I'm just not going to speak to you anymore.  That's what I'll do.  That's what you deserve!"
 
 
-<SHKUNK>  The corner hatch shkunked closed.  Hillburt began to jog upward, upward, toward sea level.  He had a plan.  Now, all he needed was a good plan.
+*SHKUNK*  The corner hatch shkunked closed.  Hillburt began to jog upward, upward, toward sea level.  He had a plan.  Now, all he needed was a good plan.
 
 
 
 
 
 
-Citation
-
-
-
-
-
+#Citation
 
 The seafoil taxied away from the transit pier and sped into the distance.
 
@@ -1835,13 +1820,7 @@ One of the civicents in the crowd gathering on the pier to witness this personal
 
 "That is correct.  Immediate payment or immediate presentation of certified documentation of proof of inability to pay is required," the immaculately uniformed Behavior Warden said.  He holstered the CAD25h and sighed, brushing some time dust off of his award medal-laden white and gold lapel.  He didn't care much that the dust was the remains of an old-looking gentleman that he has just seen pop into a cloud before his very eyes.  Now, it was just a smirch on his exquisite, white-and-gold, short-sleeve tunic, and jet-black-and-gold-trim starched short-trousers.  As he continued his pompous preening, Liperton carefully said,
 
-
-
-
 "I only have a one.  That's the smallest I've got."
-
-
-
 
 The Behavior Warden feigned tremendous inconvenience.  Everyone knew where this was going.  Better than half of the surrounding crowd had been in almost exactly this situation with this very same Behavior Warden.  With his stance raised, and glaring intensely at Liperton, he said in a low voice,
 
@@ -1862,14 +1841,15 @@ Liperton knew what he had to say.  His hatred of having to say it was defrayed b
 
 
 "Okay, but just this once, and you'd best not tell anybody that you did this.  You might get cited."
-City Library of Meadowfield
 
 
 
 
+#City Library of Meadowfield
 
 
-    On the fifth and mandatory floor of the City Library of Meadowfield, a small bespectacled man pushed his cart of new advert-o-chures and updated category placards through aisles of shelvery that filled the advert-o-chure room. He elbowed his way through the hasty, swarming crowd to the Rare and Overpriced section.
+On the fifth and mandatory floor of the City Library of Meadowfield, a small bespectacled man pushed his cart of new advert-o-chures and updated category placards through aisles of shelvery that filled the advert-o-chure room. He elbowed his way through the hasty, swarming crowd to the Rare and Overpriced section.
+
 The room was crowded and hasty because when civicents enter the City Library, they must go through a long, inconvenient procedure before they are granted access to the rest of the library. Upon entering, they are escorted to a lifty on the lobby floor and the lifty takes them immediately to the 6th floor where they are read the Rules of Browsing. Then they are taken to the 5th floor and advert-o-chure room where they are then required to purchase at least one advert-o-chure. The advert-o-chure must then be read in its entirety at a reading table while being monitored by a ThoroughMonitor (or TM). When the TM has declared you literated, you may then finally enter the main walk-terrace (after showing your advert-o-chure to the checker) and then go to whichever floor or subsea-level of your choosing. The purchased advert-o-chure(s) then must be kept on their person at all times if they want to remain in the library, and to avoid sudden extrication.
 
 
