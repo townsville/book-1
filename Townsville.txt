@@ -1,28 +1,26 @@
-Townsville
-==========
+# Townsville
 
-Pelagica: Book I 
-*by Douglas Asbury III*
-Chapter 1
+### Pelagica: Book I 
+### by Douglas Asbury III
+## Chapter 1
+
+### Root 1
+
+
 Root 1
+My life and my task are primary
 
 
-    Root 1
-    My life and my task are primary
+Root 1.1
+All causes must uphold Root 1
 
 
-    Root 1.1
-    All causes must uphold Root 1
-
-
-#Billowsville
+# Billowsville
 
 
 In Billowsville, there was a quiet street where Liperton lived. And, for some reason,  Liperton hated the quiet. On some some mornings that were especially quiet, he would scuffle to his front door, open it quickly with a subtle violence, and imagine himself outside screaming into the matutinal sky, "I will not stand for this any longer! Do you hear me?!!" But he never screamed, or yelled, or even hollered. He would just stand in the open doorway and stare out into the quiet, empty townsville, silently hating the quiet. Even if he could gumptiously muster up the energy and the social confidence to scream openly in the streets (that would be foolish!), no one would be around to hear him, for no one, except himself, lived in Billowsville. When he moved there five years prior, he had moved into the only available cut-a-cottage. But during the last few years, for a reason that was unknown to him, the seaburb had slowly been emptied of its habitators. In fact, he couldn't remember the last time he had seen a townsviller. It had been at least a year. The neighborhood that used to buzz and bustle with multifarious dwellers now sat like a long forgotten cemetery; rental advert-a-signs, like headstones, were planted unceremoniously in each and every yard: For Rent, or Lease to Semi-Own (with Limited Rights): Bouffard Realty Inc. the signs said in a long, gaudy script.
 
-
 One morning, after Liperton had finished his morning habits, he decided to take a trip to the city as he sometimes did (when there was a need). He walked down the long path next to his driveway and passed the giant sycamore that was in the middle of it. The trunk took up the entire width of the driveway.
-
 
 "Good morning." Liperton said softly to the sycamore. "Look after the house, won't you? I will return shortly. I have one important errand to run today. Maybe two. Three if something else comes up. But no more than that. Unless there is."
 
@@ -63,7 +61,6 @@ Liperton was recovering from the surprise,  but still coughed and choked out the
 
 
 "Really?" Liperton asked.
-
 
 "Yes! Really, really!" the man replied.
 
@@ -767,7 +764,7 @@ He looked down at his walk-n-talkie and noticed that the small visi-screen was s
 
 
 
-#Meadowfield
+# Meadowfield
 
 
 
@@ -1419,7 +1416,7 @@ Excerpt 9.2
 
 >Excerpt 9.2: ...When I succesfully enter a z-moment where the space is already occupied by myself (within about 30 feet), the memories, awareness, and experiences of that x-self (the self that had passed through) are interpolated (or intrapolated, as I call it) to the z-self (the self already in that moment) and then the x-self, when finished interpolating, ceases to exist and the body reduces to timedust. The first 8 times that I attempted this, I (the z-self) for some reason wept uncontrollably. It is an emotional experience, suddenly acquiring experiences and memories and immediate mental maturity.  After awhile, I got used to the interpolating. Now, I hardly ever weep. I tear up here and there, depending on how deep the experiences and knowledge are that I absorb. Incidentally, interpolating, I have found, can take anywhere from a nanosecond to 30 minutes. And another interesting side effect of a walk-through is, for some reason, the x-self's appearance changes to that of a very elderly person with a long white beard and long bushy white hair. My health is not deteriorated - I feel normal. It's just the outside that changes. The first time I intrapolated,  I didn't recognize my x-self. It was very confusing. Another interesting thing: If two x-selves come together (within 30ft.) they conjoin to form a y-self, or a mingle as I call them. I can tell a mingle apart from an x-self because the mingle's beard and hair grows longer every time he conjoins. *End of Article*
 
-#BetweenSpace
+# BetweenSpace
 
 ... *flicker* And then Liperton turned to run, but before he did, Dr. Alagraham quickly took the house key-a-card out of Liperton's shirt pocket. Bouffard and Dr. Alagraham took off towards Liperton's house leaving Liperton to his looping fate.
 
@@ -1563,7 +1560,7 @@ Suddenly, a series of doors appeared, three on each side of the corridor. Lipert
 
 
 
-Seafoil #497
+## Seafoil #497
 
 
 
@@ -1757,8 +1754,7 @@ The clacking of the key-a-cards stopped.  Hillburt saw a car image that was so d
 
 
 
-
-#Citation
+## Citation
 
 The seafoil taxied away from the transit pier and sped into the distance.
 
@@ -1845,7 +1841,7 @@ Liperton knew what he had to say.  His hatred of having to say it was defrayed b
 
 
 
-#City Library of Meadowfield
+## City Library of Meadowfield
 
 
 On the fifth and mandatory floor of the City Library of Meadowfield, a small bespectacled man pushed his cart of new advert-o-chures and updated category placards through aisles of shelvery that filled the advert-o-chure room. He elbowed his way through the hasty, swarming crowd to the Rare and Overpriced section.
@@ -2023,8 +2019,7 @@ Liperton pushed his way through the crowd to the DANG CHEAP section and started 
 
 
 
-
-#Bouffard & Alagraham
+## Bouffard & Alagraham
 
 
 "How long do you suppose this will last?"
