@@ -27,7 +27,7 @@
 			"file": "/Users/bradkoehn/Dropbox/townsville/book-1/Townsville.txt",
 			"settings":
 			{
-				"buffer_size": 132732,
+				"buffer_size": 141875,
 				"line_ending": "Windows"
 			}
 		}
@@ -35,19 +35,15 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 107.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"insta",
-				"Package Control: Install Package"
+				"git",
+				"Git: Quick Commit"
 			],
 			[
 				"inst",
-				"Package Control: Install Package"
-			],
-			[
-				"ins",
 				"Package Control: Install Package"
 			],
 			[
@@ -55,28 +51,76 @@
 				"Package Control: Install Package"
 			],
 			[
-				"mark",
+				"markd",
 				"Markdown Preview: preview in Browser"
 			],
 			[
-				"them",
-				"Schemr: List all schemes"
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"markdow",
+				"Snippet: Markdown_link_(mdl)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Markdown Preview: preview in Browser"
 			],
 			[
 				"markdown",
 				"Markdown Preview: preview in Browser"
 			],
 			[
-				"sni",
-				"Snippet: Lorem ipsum"
+				"theme",
+				"Schemr: List all schemes"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"gis",
+				"Gist: Update File"
+			],
+			[
+				"sin",
+				"Snippet: New Conversation"
 			],
 			[
 				"Snippet: ",
-				"Snippet: Lorem ipsum"
+				"Snippet: New Conversation"
 			],
 			[
-				"theme",
-				"Schemr: Next scheme"
+				"MARKDOWN",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mar",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"pand",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"mark",
+				"Markdown Preview: export HTML in Sublime Text"
+			],
+			[
+				"sni",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"Schemr: List all schemes"
 			],
 			[
 				"color",
@@ -147,12 +191,26 @@
 		"show_minimap": false,
 		"show_open_files": false,
 		"show_tabs": false,
-		"side_bar_visible": false,
+		"side_bar_visible": true,
 		"status_bar_visible": false
 	},
 	"file_history":
 	[
 		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/bradkoehn/Dropbox/townsville/book-1/Townsville.txt",
+		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/Language - English/en_US.dic",
+		"/Library/Spelling/LocalDictionary",
+		"/Users/bradkoehn/Library/Spelling/dynamic-text.dat",
+		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/Users/bradkoehn/Desktop/townsville.md",
+		"/Users/bradkoehn/Downloads/TOWNSVILLE.html",
+		"/Users/bradkoehn/Desktop/Title: Big Fish.fountain",
+		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/User/conversation.sublime-snippet",
+		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
 		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/README.md",
 		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/MarkdownEditor-Focus.tmTheme",
 		"/Users/bradkoehn/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/MarkdownEditor.tmTheme",
@@ -190,7 +248,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -204,6 +262,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ignore_word",
+			"”",
+			"“",
+			"root",
+			"\n\\\n",
+			"\n\\\n\n\\",
+			"\n\\\n\n",
+			"github",
+			"\n\n\n",
+			"#",
+			"<",
+			"flicker",
+			"M.A.J.I.C.",
+			"M.A.J.I.C",
+			"m.a",
+			"m.",
+			"One",
 			"\"I am a fellow townsviller. A seaburbian like yourself. I'm pleased to be here, sir, I really am. I'm glad to finally meet you, my neighbor!\" The man said, wild-eyed.\n\n",
 			"of",
 			"text",
@@ -260,18 +335,19 @@
 			"color",
 			"background"
 		],
-		"highlight": false,
+		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"\""
 		],
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
-		"wrap": true
+		"wrap": false
 	},
 	"groups":
 	[
@@ -284,23 +360,38 @@
 					"file": "/Users/bradkoehn/Dropbox/townsville/book-1/Townsville.txt",
 					"settings":
 					{
-						"buffer_size": 132732,
+						"buffer_size": 141875,
 						"regions":
 						{
+							"TagLint":
+							{
+								"flags": 52,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										52558,
+										52564
+									]
+								],
+								"scope": "variable.parameter"
+							}
 						},
 						"selection":
 						[
 							[
-								88652,
-								88661
+								2354,
+								2354
 							]
 						],
 						"settings":
 						{
+							"is_xml": false,
+							"spell_check": false,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 89630.0,
+						"translation.y": 7036.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -310,7 +401,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 41.0
 	},
 	"input":
 	{
@@ -339,9 +430,17 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 154.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 178.0
+	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -364,6 +463,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 364.0,
+	"side_bar_width": 285.0,
 	"status_bar_visible": true
 }
