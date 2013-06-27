@@ -4,7 +4,7 @@
 
     *TO DO [Intro by Douglas Asbury III]*
 
-## Pre Chapter 12345
+## Pre Chapter
 
 ### This is Pelagica
 
