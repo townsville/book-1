@@ -239,9 +239,13 @@ font-family: 'LatinModernMonoLight10Bold', Times, 'Times New Roman',
               "Hiragino Sans GB", "STXihei", "微软雅黑", serif;	
 }
 
-pre{
+pre, pre code{
 font-family: 'LatinModernMonoLightCond10Rg', Times, 'Times New Roman',
-              "Hiragino Sans GB", "STXihei", "微软雅黑", serif;	
+              "Hiragino Sans GB", "STXihei", "微软雅黑", serif;
+ border: none;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
 }
 
 strong{
