@@ -234,12 +234,27 @@ body{
   padding-bottom: 40px;
 }
 
+h1,h2,h3,h4,h5,h5{
+font-family: 'LatinModernMonoLight10Bold', Times, 'Times New Roman',
+              "Hiragino Sans GB", "STXihei", "微软雅黑", serif;	
+}
+
+pre{
+font-family: 'LatinModernMonoLightCond10Rg', Times, 'Times New Roman',
+              "Hiragino Sans GB", "STXihei", "微软雅黑", serif;	
+}
+
+strong{
+	font-family: 'LatinModernMonoCaps10Regular', Times, 'Times New Roman',
+              "Hiragino Sans GB", "STXihei", "微软雅黑", serif;
+}
+
 p{
   margin:1em 0;
 }
 
 em{
-	font-family: 'LatinModernMono10Italic', Times, 'Times New Roman',
+	font-family: 'LatinModernMonoProp10Oblique', Times, 'Times New Roman',
               "Hiragino Sans GB", "STXihei", "微软雅黑", serif;	
 }	
 
