@@ -1,0 +1,40 @@
+ /* Custom container */
+  .container-narrow {
+    margin: 0 auto;
+    max-width: 700px;
+  }
+  .container-narrow > hr {
+    margin: 30px 0;
+  }
+
+
+body{
+  color:#444;
+  font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman',
+              "Hiragino Sans GB", "STXihei", "微软雅黑", serif;
+  font-size:18px;
+  line-height:1.3em;
+  background:#fefefe;
+  outline: 1300px solid #FAFAFA;
+  text-align: justify;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+p{
+	margin:1em 0;
+}
+			
+@media (max-width: 480px) {
+
+body{
+  color:#444;
+  font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman',
+              "Hiragino Sans GB", "STXihei", "微软雅黑", serif;
+  font-size:20px;
+  text-align: justify;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  }
+
+}
