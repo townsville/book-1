@@ -240,13 +240,15 @@ font-family: 'LatinModernMonoLight10Bold', Times, 'Times New Roman',
 }
 
 pre, pre code{
-font-family: 'LatinModernMonoLight10Bold', Times, 'Times New Roman',
+font-family: 'LatinModernMonoPropLight10Bd', Times, 'Times New Roman',
               "Hiragino Sans GB", "STXihei", "微软雅黑", serif;
-              font-size: 13px;
+ font-size: 16px;
  border: none;
 -webkit-border-radius: 0px;
 -moz-border-radius: 0px;
 border-radius: 0px;
+background: none;
+
 }
 
 strong{
