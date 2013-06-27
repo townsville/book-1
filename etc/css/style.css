@@ -229,7 +229,7 @@ body{
   line-height:1.3em;
   background:#fefefe;
   outline: 1300px solid #FAFAFA;
-  text-align: justify;
+  /*text-align: justify;*/
   padding-top: 20px;
   padding-bottom: 40px;
 }
@@ -249,6 +249,7 @@ font-family: 'LatinModernMonoPropLight10Bd', Times, 'Times New Roman',
 border-radius: 0px;
 background: none;
 line-height: 22px;
+word-break: normal;
 
 }
 
