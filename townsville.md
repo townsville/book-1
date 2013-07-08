@@ -603,17 +603,21 @@ Root 3 TBD
 
 ## Liperton's House
 
-"Marvelous... It's bigger than I thought it would be. Much, much bigger." Bouffard said, as he strode beside Liperton's driveway. For there it was, the subject of Bouffard's comment, the tree, the Sycamore, thickly growing in the middle of the driveway. So thick in fact that the trunk indeed spanned the entire width of the driveway. It branched into the sky. Bouffard brushed the rough bark with his rough hand as he walked past the tree.
+"Marvelous... It's even bigger than I thought it would be. Much, much bigger." Bouffard said, as he strode beside Liperton's driveway. For there it was, the subject of Bouffard's comment, the tree, the Sycamore, thickly growing in the middle of the driveway. So thick in fact that the trunk indeed spanned the entire width of the driveway and into the yard. They began to carefully climb up and over the monstrous roots that filled the yard.
 
-"Ah! It appears to be a type of Ficus Sycomorus-Septentrionalis! Though, it’s not one I’ve ever seen in the archives." Alagraham said, "I believe this tree is the only one of its kind. It looks so ancient. Yet, how did it end up here? And how did it escape the city’s notice for so long? It’s odd that it wasn’t documented when this townsville was established." He strode broadly, in step with Bouffard, flanking the focal tree on its other side. He brushed the rough bark with his soft hand, and without thinking, he broke off a bit of the bark and put it in his jacket pocket. It felt heavier than bark should, he thought. Odd.
+"It looks almost similar to TreeCorp's Ficus Sycomorus-Septentrionalis v3.7 but the bark is thicker and whiter, and the leaves are much bigger," Alagraham said, "I believe this tree is the only one of its kind. It looks so ancient. Yet, how did it end up here? And how did it escape the city’s notice for so long? It’s odd that it wasn’t documented when this townsville was established." He climbed up the roots to the trunk and brushed the rough bark with his soft hand, and without thinking, he broke off a bit of the bark and put it in his jacket pocket. It felt heavier than bark should, he thought. Odd.
 
-"Mysteries folded into mysteries," Bouffard said, "Mysteries that will be solved soon enough. The Archeman (may he remain) and his Geniusmen will see to it. If, that is, we can get off of this townsville in time. Come, let us enter the house."
+"Do you hear that humming sound? Is that coming from the tree?" Bouffard said.
+
+"No, that's impossible. Yet, I think it might be..." Alagraham said climbing up putting his ear to the trunk.
+
+"Mysteries folded into mysteries," Bouffard said, "Mysteries that will be solved soon enough. If, that is, we can get off of this  townsville in time. Come, let us enter the house."
 
 The two men cautiously approached the house, not knowing what to expect. The house itself was ordinary enough.  A wooden house, older than it first would appear, painted green with white appointments, and supplied with a circuitously-routed flagstone walkway which led round the front of the house, up to a small porch, and then to the old front door with a too-high integrated window. At first glance, the house looked as though it would be drafty, and being visibly ridden with seacats of uncertain address, it could be thought to be in disrepair.  Only upon touching it did Bouffard realize that this was indeed the house of a certified Geniusman.
 
 Bouffard tried to turn the knob.  Two wooden-floor step creaks were heard on the other side of the medium-weight wooden door.  The thin, sliding metal of the peephole was heard to slide thinly.  Alagraham saw a colored distortion through the business-end of the peekhole and said,
 
-"How did he get here so fast?"
+"How did he get here so fast?!"
 
 Bouffard didn't respond, but glanced at the peephole at his chest height, and peered over the top of the integrated window.
 
