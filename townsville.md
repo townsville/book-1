@@ -983,17 +983,21 @@ The bespectacled man entered the less crowded (empty) Rare and Overpriced sectio
 
 He shivered, then opened it. Another folded sheet of paper fell out. He caught it before it hit the ground. It appeared to be a page ripped out of a very old book. He carefully unfolded it and saw that one side had text and the other side a map. He started reading the text and his eyes grew large. A mild paranoia overtook him.  He looked around to make sure no one was nearby. Bespectacled was about 100 feet away continuing his stocking and the old man still was nowhere to be seen. He read:
 
-    ### The Fortellings of Phillip Londers
+---
 
-    *For a glossary of terms, please reference the volume that accompanied this book*
+### The Fortellings of Phillip Londers
 
-    #### Chapter 12: A Message to the Wispy Man in the Library
+*For a glossary of terms, please reference the volume that accompanied this book*
 
-    This is important. Look at the map on the other side and memorize it (as you do well). Remember the following, you will need it at the proper time:
+#### Chapter 12: A Message to the Wispy Man in the Library
 
-    - Left, Right, Right, Jump, Right, Duck, Stop
-    - That is not a door
-    - Lean away from Red...
+This is important. Look at the map on the other side and memorize it (as you do well). Remember the following, you will need it at the proper time:
+
+- Left, Right, Right, Jump, Right, Duck, Stop
+- That is not a door
+- Lean away from Red...
+
+---
 
 The text went on and on like this, instructions out of context - very confusing. But he read on until the end:
 
