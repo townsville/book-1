@@ -999,11 +999,13 @@ This is important. Look at the map on the other side and memorize it (as you do 
 - Lean away from Red...
 
 ---
+
 ---
 
 The text went on and on like this, instructions out of context - very confusing. But he read on until the end:
 
 ---
+
 ---
 
 Liperton needs the help of your ability. When you meet him, tell him that he needs your help and the help from others. He needs the help of eight others including you. It is important that he accepts this help, the help of the AbleEight.
@@ -1013,6 +1015,7 @@ Go now. Go find Liperton. You will find him. Do not delay. Except one last thing
 *Do not trust -* ...
 
 ---
+
 ---
 
 But the last part was missing, the corner of the page was ripped off. Wispy stared at the page in a stupor. He then turned it over and gazed at the map. He had an uncanny ability of remembering everything he read and saw - with perfect recall. He folded the page up and put it back into the advert-o-chure. His heart was pumping fast and he quickly made his way to the line for the cashier. The line to the cashier was about a hundred people deep. He stood at the back to wait but lost his patience. He ran past the the people in front of him to the cashier.
