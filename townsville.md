@@ -901,7 +901,7 @@ The clacking of the key-a-cards stopped.  Hillburt saw a car image that was so d
 
 
 
-Citation
+## Citation
 
 The seafoil taxied away from the transit pier and sped into the distance.
 
@@ -940,7 +940,8 @@ Liperton knew what he had to say.  His hatred of having to say it was defrayed b
 "No.  It would just really help me out if you could be so kind as to take this one wampucoin and process the payment.  Would that be all right?" The crowd, all of whom had seen this part a thousand times, dispersed in disinterest. The Behavior Warden gave Liperton a well-rehearsed, sideways-and-down-the-nose look, and said,
 
 "Okay, but just this once, and you'd best not tell anybody that you did this.  You might get cited."
-City Library of Meadowfield
+
+## City Library of Meadowfield
 
 On the fifth and mandatory floor of the City Library of Meadowfield, a small bespectacled man pushed his cart of new advert-o-chures and updated category placards through aisles of shelvery that filled the advert-o-chure room. He elbowed his way through the hasty, swarming crowd to the Rare and Overpriced section. The room was crowded and hasty because when civicents enter the City Library, they must go through a long, inconvenient procedure before they are granted access to the rest of the library. Upon entering, they are escorted to a lifty on the lobby floor and the lifty takes them immediately to the 6th floor where they are read the Rules of Browsing. Then they are taken to the 5th floor and advert-o-chure room where they are then required to purchase at least one advert-o-chure. The advert-o-chure must then be read in its entirety at a reading table while being monitored by a ThoroughMonitor (or TM). When the TM has declared you literated, you may then finally enter the main walk-terrace (after showing your advert-o-chure to the checker) and then go to whichever floor or subsea-level of your choosing. The purchased advert-o-chure(s) then must be kept on their person at all times if they want to remain in the library, and to avoid sudden extrication.
 
@@ -958,62 +959,35 @@ The bespectacled man entered the less crowded (empty) Rare and Overpriced sectio
 
 "Yecods! You scared me to near death! I’m so sorry, sir. I’m having the worst luck with my personal space today..." wispy said, rubbing his forehead nervously.
 
-"Shhh, quiet. I haven’t got the time. Take this, read it, memorize it as I know you do well. And then go find Liperton right away." The old man said this as he handed a small advert-o-chure to wispy. He took it from him reluctantly and then stared at it in a daze. He was so confused and thought this meeting was quite strange. He looked up to ask the old man what the kelp he meant and who the kelp was Liperton but the old man was gone. He looked around and didn’t see him anywhere, he had simply vanished. Perplexed, he stood there for a moment to collect his thoughts and then looked at the paper the white haired man had given him. It read as follows:
+"Shhh, quiet. I haven’t got the time. Take this, it's meant for you. Read it, do what it says, and memorize it as I know you do well." The old man said this as he handed a small advert-o-chure to wispy. He took it from him reluctantly and then stared at it in a daze. He was so confused and thought this meeting was quite strange. He looked up to ask the old man what the kelp he meant and who the kelp was Liperton but the old man was gone. He looked around and didn’t see him anywhere, he had simply vanished. Perplexed, he stood there for a moment to collect his thoughts and then looked at the paper the white haired man had given him. It read as follows:
  
-    Come visit the least visited place in all Pelagica!
-    Beneath InCenter, you can find the Secret Archival Library of Knowledge at subsealevel #17. Go there and give the Ultra Secret Password - "gummy".
+    Come visit the most exciting and least visited place in all of  Pelagica! Ever wonder where all of the unpleasant discardings of people end up? In UnderCity! At subsea-level #701, you can enjoy an adventure of exploring the infamous sludgetunnels. Who knows what you can find! Enter any service lifty and give the Ultra Secret Password - "gummy" - and then away you go! *(Please enter at your own risk. We are required by WarningCorp, Inc. to mention that this adventure may result in sudden death. There may also be various degrees of stench.)*
+    
     See inside for more details--->
 
-When he opened it, another folded sheet of paper fell out. He caught it before it hit the ground. It appeared to be a page ripped out of a very old book. He carefully unfolded it and started reading:
+He shivered, then opened it. Another folded sheet of paper fell out. He caught it before it hit the ground. It appeared to be a page ripped out of a very old book. He carefully unfolded it and saw that one side had text and the other side a map. He started reading the text and his eyes grew large. A mild paranoia overtook him.  He looked around to make sure no one was nearby. Bespectacled was about 100 feet away continuing his stocking and the old man still was nowhere to be seen. He read:
 
     ### The Fortellings of Phillip Londers
 
     *For a glossary of terms, please reference the volume that accompanied this book*
 
-    #### Chapter 12: A Lie, The Truth, and the Man from Beyond
+    #### Chapter 12: A Message to the Wispy Man in the Library
 
-    We live on a world called Maritimus. Maritimus is a gnobulus that lies within a gnobe in Infinisea. Infinisea is our universe. It is a sea that is infinite. If you were to fly straight up into the clouds and past the clouds and beyond the savage empty space of the gnobe you would hit the water of Infinisea. A gnobe is a spherical pocket of non-water within Infinisea. A gnobulus is a solid sphere within a gnobe. Your gnobulus, Maritimus, is not solid but is made completely of water. It is the only one of its kind.  In ancient times, before the founding of Pelagica, there was no land. If you were to dive into the sea and swim downwards you would never reach land because there was no land. You would reach the core if you swam to the center. The core is made of xlyca-glass and contains...
+    This is important. Look at the map on the other side and memorize it (as you do well). Remember the following, you will need it at the proper time:
 
-As wispy read the page, his eyes grew large. A mild paranoia overtook him.  He looked around to make sure no one was nearby. Bespectacled was about 100 feet away continuing his stocking. And the old man still was nowhere to be seen. What he read astounded him. More than a few times he made a loud gasp.
+    - Left, Right, Right, Jump, Right, Duck, Stop
+    - That is not a door
+    - Lean away from Red...
 
-    Before the end of the Great War, the king of the Munim sent his firstborn son, Ludius, out into Infinisea to find a way to...
+The text went on and on like this, instructions out of context - very confusing. But he read on until the end:
 
-Gasp!
+    Liperton needs the help of your ability. When you meet him, tell him that he needs your help and the help from others. He needs the help of eight others including you. It is important that he accepts this help, the help of the AbleEight.
 
-    ...Sycamore feeds on time. When it grows to full maturity, it will...
+    Go now. Go find Liperton. You will find him. Do not delay. Except one last thing - the most important thing you need to tell Liperton is this:
 
-Gasp!
+    *Do not trust -* ...
 
-    The hard wooden shell can only be opened by the...
-
-Gasp! He looked around to see if anyone was approaching him. And then continued to read.
-
-    ...does not know however, is that Ludius...
-
-Gasp! Choke...cough. He read on.
-
-He read: 
-    ...the eighth Stellatus grew jealous of man and his joy...
-And also:
-    ...man became great and many townsvilles were created for extra living space...
-And then:
-    ...when his plans were made known to the Archeman...
-Also:
-    ...commanded them to defend Pelagica and InCenter...
-He continued:
-     ...Geniusmen created a virus that was harmless to man, but deadly to the...
-And then:
-    ...fled into Infinisea, far away from Maritimus until the plague of...
-
-Gasp! Double Gasp!
-
-    As a result of the Great War, the perfect circle of Pelagica was broken into many islands that spiral around the mainland where InCenter stands and the Archeman rules 
-
-    ...was broken. And without the knowledge and skill of the Munim, it could never be repaired...
-
-Gasp!
-
-There the text ended and wispy stared at the page in a stupor.  He folded it up and put it back into the advert-o-chure. His heart was pumping fast and he quickly made his way to the line for the cashier. The line to the cashier was about a hundred people deep. He stood at the back and waited. He lost his patience and ran past the fifty people in front of him to the cashier.
+But the last part was missing, the corner of the page was ripped off. Wispy stared at the page in a stupor. He then turned it over and gazed at the map. He had an uncanny ability of remembering everything he read and saw - with perfect recall. He folded the page up and put it back into the advert-o-chure. His heart was pumping fast and he quickly made his way to the line for the cashier. The line to the cashier was about a hundred people deep. He stood at the back to wait but lost his patience. He ran past the the people in front of him to the cashier.
 
 "Please! I must checkout now, it's an emergency!" wispy yelled at the cashier.
 
@@ -1025,9 +999,9 @@ There the text ended and wispy stared at the page in a stupor.  He folded it up 
 
 "No, please! I must leave at once!" cried wispy.
 
-"Security! We have another crazy!" rasped the cashier.
+"Security! We have another one!" rasped the cashier.
 
-"Come with me, sir" said a beefy secur-a-guard behind him.
+"Come with me, sir," said a beefy secur-a-guard behind him.
 
 "No! You mustn't! Please! LIPERTON! AARGH!" cried wispy. He pushed the secur-a-guard and ran towards the City Library entrance door. Before he reached it, though, he was tackled by twenty secur-a-guards.
 
@@ -1035,7 +1009,7 @@ There the text ended and wispy stared at the page in a stupor.  He folded it up 
 
 The Advert-o-chure room was at first deadly silent. When the door of the lifty closed, the whole room broke out into a conversational buzz. Over the loudspeaker, a voice rang out:
 
-"Please, cease your gabfest! Remember the silence! It is not optional!"
+"Please, cease all gabfesting! Remember the silence! It is not optional!"
 
 The buzz died down to a low whisper that sounded like rustling book pages. Meanwhile, Liperton walked into the room and looked around. He addressed a man just inside the entrance:
 
@@ -1053,7 +1027,7 @@ The buzz died down to a low whisper that sounded like rustling book pages. Meanw
 
 "SHHH!"
 
-Liperton pushed his way through the crowd to the DANG CHEAP section and started browsing the shelvery.
+Liperton pushed his way through the crowd to the PRETTY DARN CHEAP section and started browsing the shelvery.
 
 
 ## Bouffard & Alagraham
