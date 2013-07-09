@@ -1137,7 +1137,7 @@ Alagraham feebly said, "I'm not sure how much longer I can keep this..."
 
 "KEEP TRYING!  KEEP TRYING!  KEEEEEEEP..."
 
-Pop.
+*Pop.*
 
 Each of the seventh doors were open, and Bouffard had slumped to sit on the floor.  He was panting and sweating and rubbing his bruised, bleeding, compressed finger.  He heaved a sigh just in time for the jazz fife to finish its solo, and for the drums to begin their second solo.
 
@@ -1175,12 +1175,17 @@ Bouffard stood calmly, holding out his shiny, pointy, metal tool.  Then Alagraha
 
 Right when the second drum solo reached a timely cymbal crash, the soft jazz abruptly ended, leaving silence.
 
-Keep Against the Wall
+---
+
+## Keep Against the Wall
+
 Liperton, after standing in line for a good thirty minutes, finally reached the cashier. He promptly paid and then made his way to an empty chair at a reading table, sat down, and read his purchase.
 
-    *begin*
-    TRY TRIPIMUN FOR MAXIMUM EFFECTIVENESS.
-    *end*
+---
+
+>TRY TRIPIMUN FOR MAXIMUM EFFECTIVENESS.
+
+---
 
 "I'm finished." said Liperton looking to the TM behind him.
 
@@ -1302,7 +1307,7 @@ They began to edge into position to stand next to each other within the within w
 
 Alagraham stuttered, "It feels very cold now.  I can feel it all over my arm.  Do you feel this too?  And can you hear that?  It sounds like water -- "
 
-HHSSSSSHHHHAAAWHH!
+*HHSSSSSHHHHAAAWHH!*
 
 The very instant that the two men reached a lateral position and were looking sideways across the corridor at each other, something happened.  The corridor around them seemed to disappear around the lateral position of the other man's piece of bark, behind it appearing a distant, giant rush of water, sound, light and darkness in every direction.  Then, the other man instantly rushed past, and they were both left standing in the white corridor, holding their pieces of bark away from each other, dripping wet, listening to soft jazz.
 
