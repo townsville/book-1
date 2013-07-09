@@ -935,7 +935,7 @@ The Behavior Warden feigned tremendous inconvenience.  Everyone knew where this 
 
 "Are you trying to bribe an official of the Townsville governmental authority?"
 
-Liperton knew what he had to say.  His hatred of having to say it was defrayed by the fact that he absolutely, positively had to hurry to the City Library of Meadowfield.  He produced a single wampucoin from his pocket and met lie with lie, saying,
+Liperton knew what he had to say.  His hatred of having to say it was defrayed by the fact that he absolutely, positively had to hurry to Meadowfield.  He produced a single wampucoin from his pocket and met lie with lie, saying,
 
 "No.  It would just really help me out if you could be so kind as to take this one wampucoin and process the payment.  Would that be all right?" The crowd, all of whom had seen this part a thousand times, dispersed in disinterest. The Behavior Warden gave Liperton a well-rehearsed, sideways-and-down-the-nose look, and said,
 
