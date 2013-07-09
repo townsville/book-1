@@ -609,7 +609,7 @@ Root 3 TBD
 
 "Do you hear that humming sound? Is that coming from the tree?" Bouffard said.
 
-"No, that's impossible. Yet, I think it might be..." Alagraham said climbing up putting his ear to the trunk.
+"No, that's impossible. Yet, I think it might be..." Alagraham said climbing up again putting his ear to the trunk.
 
 "Mysteries folded into mysteries," Bouffard said, "Mysteries that will be solved soon enough. If, that is, we can get off of this  townsville in time. Come, let us enter the house."
 
