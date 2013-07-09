@@ -984,6 +984,7 @@ The bespectacled man entered the less crowded (empty) Rare and Overpriced sectio
 He shivered, then opened it. Another folded sheet of paper fell out. He caught it before it hit the ground. It appeared to be a page ripped out of a very old book. He carefully unfolded it and saw that one side had text and the other side a map. He started reading the text and his eyes grew large. A mild paranoia overtook him.  He looked around to make sure no one was nearby. Bespectacled was about 100 feet away continuing his stocking and the old man still was nowhere to be seen. He read:
 
 ---
+
 ---
 
 ### The Fortellings of Phillip Londers
