@@ -983,6 +983,8 @@ The bespectacled man entered the less crowded (empty) Rare and Overpriced sectio
 
 He shivered, paused, then opened it. Another folded sheet of paper fell out. He caught it before it hit the ground. It appeared to be a page ripped out of a very old book. He carefully unfolded it and saw that one side had text and the other side a map. He started reading the text and his eyes grew large. A mild paranoia overtook him.  He looked around to make sure no one was nearby. Bespectacled was about 100 feet away continuing his stocking and the old man still was nowhere to be seen. He read:
 
+---
+
 >### The Fortellings of Phillip Londers
 
 >*For a glossary of terms, please reference the volume that accompanied this book*
@@ -995,13 +997,19 @@ He shivered, paused, then opened it. Another folded sheet of paper fell out. He 
 >- That is not a door
 >- Lean away from Red...
 
+---
+
 The text went on and on like this, instructions out of context - very confusing. But he read on until the end:
+
+---
 
 >Liperton needs the help of your ability. When you meet him, tell him that he needs your help and the help from others. He needs the help of eight others including you. It is important that he accepts this help, the help of the AbleEight.
 
 >Go now. Go find Liperton. You will find him. Do not delay. Except one last thing - the most important thing you need to tell Liperton is this:
 
 >*Do not trust -* ...
+
+---
 
 But the last part was missing, the corner of the page was ripped off. Wispy stared at the page in a stupor. He then turned it over and gazed at the map. He had an uncanny ability of remembering everything he read and saw - with perfect recall. He folded the page up and put it back into the advert-o-chure. His heart was pumping fast and he quickly made his way to the line for the cashier. The line to the cashier was about a hundred people deep. He stood at the back to wait but lost his patience. He ran past the the people in front of him to the cashier.
 
