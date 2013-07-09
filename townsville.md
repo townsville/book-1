@@ -1215,7 +1215,7 @@ Liperton sat down on a courtesy cushion that was laying on the floor next to the
 
 ## Soft Jazz, Hard Bark
 
-"RESPLENDENT!!" Alagraham shouted, near to tears in his frustrated apoplexy.  "That's absolutely resplendent!  It is SOOOOOO re - SPLEN - DEN - TAH - AH - AAH!!" he said, stomping his now bare feet on the white, woodish floor.  He deshod himself to have missiles to cast at Bouffard, knowing well that they wouldn't make it any further than a couple of feet toward him.
+"RESPLENDENT!!" Alagraham shouted, near to tears in his frustrated apoplexy.  "That's absolutely resplendent!  It is SOOOOO re - SPLEN - DEN - TAH - AH - AAH!!" he said, stomping his now bare feet on the white, woodish floor.  He de-shoed himself to have missiles to cast at Bouffard, knowing well that they wouldn't make it any further than a couple of feet toward him.
 
 "Calm yourself," said Bouffard, who was now sitting against the wall, squeezing his forehead.
 
