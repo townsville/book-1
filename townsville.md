@@ -12,6 +12,8 @@
 
 *With each passenger’s tongue thoroughly scanned and verified, they continued on their routine, workaday walk to seaside Silton, and the pale green waves of the sea dutifully splashed against the ferry-car pier. It was another ordinary day in Pelagica...*
 
+---
+
 # Chapter 1
 
 ### Root 1
@@ -342,6 +344,7 @@ Bereft of awareness or memory to counter Bouffard's claim, Liperton's will was e
 
 Anagraham smiled and raised his eyebrows.  And then Liperton nodded and winked. He put his hand in his left hip pocket and looked to Bouffard, but Bouffard was not there.  He was walking towards the docking station with a quick, easy stride.
 
+---
 
 ## Root 2.07
 
@@ -351,6 +354,7 @@ I must only cause that which preserves the task and protects useful life.
 >Root 2.09
 It is impossible to access any SpaceTime event longer than a few minutes in the past or a few seconds in the future, without destroying my own timeline, and thus breaking Root 1. Therefore I must use time with caution.
 
+---
 
 ## Silton
 
@@ -384,6 +388,7 @@ He looked down at his walk-n-talkie and noticed that the small visi-screen was s
 
 "Yes, that'll do. Oh dear, oh dear... what've I done?"
 
+---
 
 ## Meadowfield
 
@@ -423,7 +428,7 @@ He had no need to worry, however, about anyone taking his mayorship from him for
     >:~Searching for next available time-slot for demolition...
     >:~Demolition scheduled in 1,908,764,098,124 days...
 
-
+---
 
 ## The Mayor of Meadowfield (May He Be Enlarged)
 
@@ -493,6 +498,7 @@ The Mayor watched the two lines of four thousand people on their mandatory shopp
 
 The Mayor sat, looking satisfied and thirsty.  He kissed his signet ring, closed his eyes, and reclined.
 
+---
 
 ## Root 2.3
 
@@ -505,6 +511,7 @@ The Mayor sat, looking satisfied and thirsty.  He kissed his signet ring, closed
 
 >There is one slight problem though. If for some reason, somehow, someone is using CLARENCE, it may prove difficult to remove it from them when I find them and if they resist. Unfortunately, If TRACTUS is in thirty feet or so of CLARENCE, TRACTUS cannot work - but CLARENCE remains fully operational! It’s an odd issue, and it has me worried. CLARENCE may be inferior, but it is very dangerous. If I ever encounter this situation, I will have to be very clever indeed, or lucky even. Hopefully this can be avoided...*
 
+---
  
 ## Notice!
 
@@ -589,6 +596,7 @@ The three men stood staring at the notice, dumbfounded. They looked out at the o
 
 "Probably so." Alagraham said as he approched the looping Liperton. And then Liperton turned to run. <blip> And then Liperton turned to run, and Dr. Alagraham quickly took the house key-a-card out of Liperton's shirt pocket. And then Liperton continued to turn and turn and turn to run while Bouffard and Dr. Alagraham took off towards Liperton's house. 
 
+---
 
 ## Root 3
 
@@ -598,6 +606,7 @@ Root 3 TBD
 
 *...A question that bothered me for awhile and that I could not answer without experimentation, was what happens when you go to a different moment where I already occupy that time and space? Will there then be two of me in that moment? Or will the universe explode? I thought it unlikely that the universe would explode, but just to be safe, I stayed in BetweenSpace and experimented with seamice. In short: the universe did not explode, thankfully. There were some seamice that imploded, though, an unfortunate mess. But better them than me I think. It turns out,  for some reason, it is necessary to enter sideways to avoid implosion. So as a general rule, when entering a z-moment in a space that you already occupy, enter sideways and you will not implode.*
 
+---
 
 # Chapter 2
 
@@ -707,6 +716,7 @@ Somewhere a saxophone started playing accompanied by a small jazz ensemble. Alag
 
 "Oh dear!" said Alagraham.
 
+---
 
 ## Root 4
 
@@ -716,6 +726,7 @@ TBD
 
 Note: ...When I succesfully enter a z-moment where the space is already occupied by myself (within about 30 feet), the memories, awareness, and experiences of that z-self (the self that had passed through) are interpolated (or intrapolated, as I call it) to the z-self (the self already in that moment) and then the z-self, when finished intrapolating, ceases to exist and the body reduces to a fine dust. The first 8 times that I attempted this, I (the z-self) for some reason wept uncontrollably. It is an emotional experience, suddenly acquiring experiences and memories and immediate mental maturity.  After awhile, I got used to the intrapolating. Now, I hardly ever weep. I tear up here and there, depending on how deep the experiences and knowledge are that I absorb. Incidentally, intrapolating, I have found, can take anywhere from a second to 30 minutes. And another interesting side effect of a walk-through is, for some reason, the z-self's appearance changes to that of a very elderly person with a long white beard and long bushy white hair. My health is not deteriorated - I feel normal. It's just my appearance that changes. The first time I intrapolated,  I didn't recognize my z-self. It was very confusing. Another interesting thing: If two z-selves come together (within 30ft.) they conjoin to form a y-self, or a mingle as I call them. I can tell a mingle apart from an z-self because the mingle's beard and hair grows longer every time he conjoins. I’m sure this is all confusing to you, but it makes sense to me, which I guess is most important.
 
+---
 
 ## BetweenSpace
 
@@ -785,6 +796,7 @@ Upperton walked forward from the platform onto an invisible walkway and then thr
 
 "Oh yeah. Yes, please destroy loophold." Liperton said and then he walked through the wall, sideways, and onto the seafoil dock.
 
+---
 
 
 ## I Don't Like This One Bit
@@ -811,6 +823,7 @@ Suddenly, a series of doors appeared, three on each side of the corridor. Lipert
 
 "I don't like this one bit." Said Alagraham. Bouffard opened a door and stepped through and Alagraham, reluctantly, followed.
 
+---
 
 ## Seafoil #497
 
@@ -868,6 +881,7 @@ But the fat seat neighbor had stopped talking and had leaned a little closer to 
 
 Above the control deck's hatchway, which was filled with rollicking, guffawing pilots, there was posted a sign which read, "No harrassing seat-neighbors.  IiTS Code #11.1, Townsville Code #1,456,034.0"
 
+---
 
 # Chapter 3
 
@@ -1031,6 +1045,7 @@ The buzz died down to a low whisper that sounded like rustling book pages. Meanw
 
 Liperton pushed his way through the crowd to the PRETTY DARN CHEAP section and started browsing the shelvery.
 
+---
 
 ## Bouffard & Alagraham
 
@@ -1151,9 +1166,9 @@ Right when the second drum solo reached a timely cymbal crash, the soft jazz abr
 Keep Against the Wall
 Liperton, after standing in line for a good thirty minutes, finally reached the cashier. He promptly paid and then made his way to an empty chair at a reading table, sat down, and read his purchase.
 
-----begin------
-TRY TRIPIMUN FOR MAXIMUM EFFECTIVENESS.
-----end-------
+    *begin*
+    TRY TRIPIMUN FOR MAXIMUM EFFECTIVENESS.
+    *end*
 
 "I'm finished." said Liperton looking to the TM behind him.
 
@@ -1179,7 +1194,9 @@ The very old, and completely automated, library system of Pelagica consisted of 
 
 Liperton sat down on a courtesy cushion that was laying on the floor next to the ii and waited.
 
-Soft Jazz, Hard Bark
+---
+
+## Soft Jazz, Hard Bark
 
 "RESPLENDENT!!" Alagraham shouted, near to tears in his frustrated apoplexy.  "That's absolutely resplendent!  It is SOOOOOO re - SPLEN - DEN - TAH - AH - AAH!!" he said, stomping his now bare feet on the white, woodish floor.  He deshod himself to have missiles to cast at Bouffard, knowing well that they wouldn't make it any further than a couple of feet toward him.
 
@@ -1305,11 +1322,9 @@ This time, Bouffard was prepared.   He had pulled out a glove-like device from h
 
 Bouffard did not hesitate.  With his hand that held the bark, Bouffard grabbed Alagraham's bark-holding hand.  Then, he grabbed both of their hands with his gloved hand and leaned past the lateral position.  Instead of rushing past each other, the men spilled away into a painful, harsh unreality.
 
-!need more
+*TO DO [need more]*
 
 They were spinning and tumbling around what looked like a dimensional axis that was centered on the bark inside their clasped hands, which were locked closed by the grip of the glove device on Bouffard's other hand.  They both flew and fell and were tossed and thrown in every direction, all around the axis.  They appeared to be inside a raging spheroid, and in every direction were waves of water that went on forever, interrupted by bolts of lightning, massive hurtling stones and streaks and points of light and shadow.  The freezing, thundering air was only around them, beyond which lay the volume of billions of oceans, all of which seemed to be attacking the men for their intrusion.
-
-
 
 Alagraham screamed unceasingly.  Bouffard held fast to Alagraham's hand, aided by his gripping device.  He took a moment to observe the surrounding limitless phantasmagoria, and in the distance he noticed something moving...something familiar.  He looked back at Alagraham, whose head and body were flailing to the point of injury.  Depending on his greater mass, he heaved three powerful heaves to bring Alagraham across the axis.
 
@@ -1331,7 +1346,7 @@ But before he asked the question the answer was clear when he felt Bouffard pick
 
 "Whoa!  WHAAA!" Alagraham half-shouted on his way to the top surface of the pedestal, having barely cleared the outer edge.  He tumbled on to the surface and sped to his feet.  "That's it!  No more flopping me around like a rag-a-ma-doll!  I'll not stand for it, Bouffard!" he cried, almost collapsing with dizziness.
 
-"I apologize for the false step, my dear Allister, but it was an essential tactical maneuver.  Your being up there will speed my getting up there, and we haven't a moment to lose, as we've no idea how many moments we've actually lost," said Bouffard with faint and feigned sweetness, cajoling the abused Alagraham, whose shock was visually more prominent than his contempt.  While Bouffard spoke, Alagraham could see him manipulating a short tube that he had produced from his jacket pocket.  Bouffard continued, "Now please, stand back."
+"I apologize for the false step, my dear Allister, but it was an essential tactical maneuver. Your being up there will speed my getting up there, and we haven't a moment to lose, as we've no idea how many moments we've actually lost," said Bouffard with faint and feigned sweetness, cajoling the abused Alagraham, whose shock was visually more prominent than his contempt.  While Bouffard spoke, Alagraham could see him manipulating a short tube that he had produced from his jacket pocket.  Bouffard continued, "Now please, stand back."
 
 He did not wait for Alagraham to do so, and shot a heavy cylinder trailing a thin cable from the tube in his hands.  It whizzed past Alagraham's head, and thudded on the surface of the now-high pedestal.  Bouffard said, "Please place the device face-down on the surface."  Alagraham did so, and he heard a suction being produced within.  A green light appeared on the side of the cylinder, and before Alagraham could tell Bouffard that this was so, the cable tensed.  Alagraham looked over the edge to see Bouffard rising quickly to the top holding fast the tube.  After some unclamorous clambering, the massive Bouffard stood next to Alagraham and they both looked through the doorways.
 
@@ -1351,7 +1366,9 @@ Alagraham looked back at the corridor, then down, then back at the (now endless)
 
 Bouffard laughed heartily.
 
-ShelvPlat
+---
+
+## ShelvPlat
 
 Stewert stopped humming and said, "Oh, here we are. My, that query took longer than expected, I apologize. I will report the delay to HQ. Happy reading."
 
@@ -1367,14 +1384,15 @@ Liperton, who had been lightly dozing, woke up with a snort. It had taken 45 min
 
 And at that moment, the ShelvPlat dropped into the bright abyss like a bolt of lightning.
 
+---
 
 
-Chapter 4
+# Chapter 4
 
 
-Intrapolation
+## Intrapolation
 
-After I tweened from an Z-Self, I sidestepped to the city of Plongin. There I intrapolated with another Z-Self who had spoken to the Mayor of Plongin and convinced the Mayor (with a few of our inventions) to give him access to the Restricted Access ii-ai-gent in the Plongin Library. I went to the Library and then spoke with a gent who understood what I was looking for.  He directed me to the City Library of Hobborton with the instructions to say "Hoo Hee Ha Ha" to a gent there. At the library of Hobborton I said "Hoo Hee Ha Ha" to the proper gent and I retrieved a Book of Books from a ShelvPlat that arrived. I went to a ReadRoom and flipped through the Book of Books and came across the most interesting... 
+*After I tweened from an Z-Self, I sidestepped to the city of Plongin.There I intrapolated with another Z-Self who had spoken to the Mayor of Plongin and convinced the Mayor (with a few of our inventions) to give him access to the Restricted Access ii-ai-gent in the Plongin Library. I went to the Library and then spoke with a gent who understood what I was looking for.  He directed me to the City Library of Hobborton with the instructions to say "Hoo Hee Ha Ha" to a gent there. At the library of Hobborton I said "Hoo Hee Ha Ha" to the proper gent and I retrieved a Book of Books from a ShelvPlat that arrived. I went to a ReadRoom and flipped through the Book of Books and came across the most interesting...*
 
 Liperton's eyes were watering but he couldn't wipe them because his arms and legs were intertwined with the railings of one of the shelveries. If he let go, he would be flung out of the open ceiling of the ShelvPlat that was falling at an incalculable speed (incalculable because he couldn't reach for his flasque of calculorade).  The incredible gust of wind that blew through the cogs of the ShelvPlat, though, was drying his eyes well enough. Z-Liperton was arm-and-leg-locked to some railings a few feet away from him and his long grey hair and beard, along with his clothes, blew wildly about him.
 
@@ -1394,11 +1412,11 @@ Liperton loosened his grip on the railings and shimmied, arms first, then legs, 
 
 "I say... How long does this ride last?" Liperton said loudly.
 
-... bit of information. Apparently, there is a hidden library that is not in any city but in some deep secret location. And there, in that library is a cache of ancient books written by the original Geniusman as well as the Archeman himself. The Book of Books did not give the location of the Cache Library, but I discovered a book that would help with that called...
+*...bit of information. Apparently, there is a hidden library that is not in any city but in some deep secret location. And there, in that library is a cache of ancient books written by the original Geniusman as well as the Archeman himself. The Book of Books did not give the location of the Cache Library, but I discovered a book that would help with that called...*
 
 "It lasts ... for a while." said Z.
 
-... 'Maps, Paths, and Doorways'. I went back to the gent and waited, but he threw up an error of 'unauthorized query' and went blank. I then sidestepped back to Plongin to the RA gent and he winked at me and queried the ShelvPlat.
+*... 'Maps, Paths, and Doorways'. I went back to the gent and waited, but he threw up an error of 'unauthorized query' and went blank. I then sidestepped back to Plongin to the RA gent and he winked at me and queried the ShelvPlat.*
 
 "Where are we going?" said Liperton. 
 
@@ -1410,7 +1428,7 @@ Liperton loosened his grip on the railings and shimmied, arms first, then legs, 
 
 "Fine then." said Liperton.
 
-I stepped onto the ShelvPlat and walked to the far cog. I found 'Maps, Paths, and Doorways' there and I took it down. Immediately when I took it in my hands, I heard the gent say 'Hold on to something!' and the ShelvPlat plummeted...
+*I stepped onto the ShelvPlat and walked to the far cog. I found 'Maps, Paths, and Doorways' there and I took it down. Immediately when I took it in my hands, I heard the gent say 'Hold on to something!' and the ShelvPlat plummeted...*
 
 The two Lipertons stared at each other while they waited for the interpolation to continue. Both men looked wild and ridiculous with their hair and clothes blowing about and with their arms and legs crossed between the railings. X-Liperton raised his eyebrows as if to say "Well?" and Z closed his eyes and sighed. 
 
