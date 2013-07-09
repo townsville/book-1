@@ -899,7 +899,7 @@ The clacking of the key-a-cards stopped.  Hillburt saw a car image that was so d
 
 <SHKUNK>  The corner hatch shkunked closed.  Hillburt began to jog upward, upward, toward sea level.  He had a plan.  Now, all he needed was a good plan.
 
-
+---
 
 ## Citation
 
@@ -940,6 +940,8 @@ Liperton knew what he had to say.  His hatred of having to say it was defrayed b
 "No.  It would just really help me out if you could be so kind as to take this one wampucoin and process the payment.  Would that be all right?" The crowd, all of whom had seen this part a thousand times, dispersed in disinterest. The Behavior Warden gave Liperton a well-rehearsed, sideways-and-down-the-nose look, and said,
 
 "Okay, but just this once, and you'd best not tell anybody that you did this.  You might get cited."
+
+---
 
 ## City Library of Meadowfield
 
