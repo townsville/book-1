@@ -975,7 +975,7 @@ The bespectacled man entered the less crowded (empty) Rare and Overpriced sectio
 
 "Yecods! You scared me to near death! I’m so sorry, sir. I’m having the worst luck with my personal space today..." wispy said, rubbing his forehead nervously.
 
-"Shhh, quiet. I haven’t got the time. Take this, it's meant for you. Read it, do what it says, and memorize it as I know you do well." The old man said this as he handed a small advert-o-chure to wispy. He took it from him reluctantly and then stared at it in a daze. He was so confused and thought this meeting was quite strange. He looked up to ask the old man what the kelp he meant and who the kelp was Liperton but the old man was gone. He looked around and didn’t see him anywhere, he had simply vanished. Perplexed, he stood there for a moment to collect his thoughts and then looked at the paper the white haired man had given him. It read as follows:
+"Shhh, quiet. I haven’t got the time. Take this, it's meant for you. Read it, do what it says, and memorize it as I know you do well. Then get to Liperton as fast as you can." The old man said this as he handed a small advert-o-chure to wispy. He took it from him reluctantly and then stared at it in a daze. He was so confused and thought this meeting was quite strange. He looked up to ask the old man what the kelp he meant and who the kelp was Liperton but the old man was gone. He looked around and didn’t see him anywhere, he had simply vanished. Perplexed, he stood there for a moment to collect his thoughts and then looked at the paper the white haired man had given him. It read as follows:
 
 ---
  
