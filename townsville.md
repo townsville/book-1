@@ -963,7 +963,7 @@ On the fifth and mandatory floor of the City Library of Meadowfield, a small bes
 
 The bespectacled man entered the less crowded (empty) Rare and Overpriced section and moved his cart toward the last shelf. He was startled when a tall, wispy man yelped in pain.
 
-"Yoweeee. Ow. Ooooo, that hurt!" cried the tall, wispy man.
+"Yoweeee. Ow. Ooooo, that hurt!" yelped the tall, wispy man.
 
 "Shhhhh! No yelping! You know the rules!" said bespectacled.
 
