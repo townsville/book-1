@@ -1015,7 +1015,7 @@ The text went on and on like this, instructions out of context - very confusing.
 
 ---
 
-But the last part was missing, the corner of the page was ripped off. Wispy stared at the page in a stupor. He then turned it over and gazed at the map. He had an uncanny ability of remembering everything he read and saw - with perfect recall. He folded the page up and put it back into the advert-o-chure. His heart was pumping fast and he quickly made his way to the line for the cashier. The line to the cashier was about a hundred people deep. He stood at the back to wait but lost his patience. He ran past the the people in front of him to the cashier.
+But the last part was missing, the corner of the page was ripped off. Wispy stared at the page in a stupor. He then turned it over and gazed at the map. He had an uncanny ability of remembering everything he read and saw - with perfect recall. He folded the page up and put it back into the advert-o-chure. His heart was pumping fast and he quickly made his way to the line for the cashier which was about a hundred people deep. He stood at the back to wait but lost his patience and started running past the people in front of him to the cashier.
 
 "Please! I must checkout now, it's an emergency!" wispy yelled at the cashier.
 
