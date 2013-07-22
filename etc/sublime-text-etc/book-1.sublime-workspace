@@ -24,10 +24,10 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/bradkoehn/Dropbox/townsville/book-1/Townsville.txt",
+			"file": "/Users/bradkoehn/Dropbox/townsville/book-1/townsville.md",
 			"settings":
 			{
-				"buffer_size": 141875,
+				"buffer_size": 141408,
 				"line_ending": "Windows"
 			}
 		}
@@ -39,12 +39,16 @@
 		"selected_items":
 		[
 			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
 				"git",
 				"Git: Quick Commit"
 			],
 			[
-				"inst",
-				"Package Control: Install Package"
+				"githu",
+				"GitHub: History"
 			],
 			[
 				"install",
@@ -196,9 +200,10 @@
 	},
 	"file_history":
 	[
+		"/Users/bradkoehn/Dropbox/townsville/book-1/townsville.md",
+		"/Users/bradkoehn/Dropbox/townsville/book-1/Townsville.txt",
 		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/bradkoehn/Dropbox/townsville/book-1/Townsville.txt",
 		"/Users/bradkoehn/Dropbox/Application Support/Sublime Text 2/Packages/Language - English/en_US.dic",
 		"/Library/Spelling/LocalDictionary",
 		"/Users/bradkoehn/Library/Spelling/dynamic-text.dat",
@@ -262,6 +267,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"wispy",
+			"fortell",
+			"londers",
+			"##",
 			"ignore_word",
 			"”",
 			"“",
@@ -357,10 +366,10 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/bradkoehn/Dropbox/townsville/book-1/Townsville.txt",
+					"file": "/Users/bradkoehn/Dropbox/townsville/book-1/townsville.md",
 					"settings":
 					{
-						"buffer_size": 141875,
+						"buffer_size": 141408,
 						"regions":
 						{
 							"TagLint":
@@ -370,8 +379,8 @@
 								"regions":
 								[
 									[
-										52558,
-										52564
+										52603,
+										52609
 									]
 								],
 								"scope": "variable.parameter"
@@ -380,18 +389,17 @@
 						"selection":
 						[
 							[
-								2354,
-								2354
+								95028,
+								95028
 							]
 						],
 						"settings":
 						{
 							"is_xml": false,
-							"spell_check": false,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 7036.0,
+						"translation.y": 60862.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -463,6 +471,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 285.0,
+	"side_bar_width": 185.0,
 	"status_bar_visible": true
 }
