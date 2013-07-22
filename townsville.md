@@ -55,7 +55,7 @@ Liperton was recovering from the surprise,  but still coughed and choked out the
 
 "Really?" Liperton asked.
 
-"Yes! Really, really! Truly, truly!" the neighbor replied.
+"Yes! Really, really! Truly, truly!" the neighbor re-replied.
 
 "It's strange that I'm just now meeting you. How long have you been in my neighbor? I haven't seen you around." Liperton said, still surpised by the sudden sociality of the Townsville that had been empty for so long."
 
