@@ -51,7 +51,7 @@ Liperton was recovering from the surprise,  but still coughed and choked out the
 
 "Impossible..." Liperton said, with his eyes wide and then squinting. Which meant he was thinking very hard.
 
-"No! UN-impossible! It's true. I'd swear, but I needn't.  It is a plain fact," the man said.
+"No! UN-impossible! It's true. I'd swear, but I needn't.  It is a plain fact," the neighbor replied.
 
 "Really?" Liperton asked.
 
@@ -65,7 +65,7 @@ Liperton was recovering from the surprise,  but still coughed and choked out the
 
 "Strange but true." cried a deep voice behind them. Both men gasped as they turned to see who had spoke. A third man was walking behind them. 
 
-"What is happening?!" Liperton exclaimed.
+"What is happening?!" Liperton exclaimed. He was a little startled.
 
 "It's all happening! It's amazing what can happen with a little ingenuity and perseverance!" Said the third man who was almost the the sum of the physical mass of the first two. The sum of them times two, even. Take the first two men, double them, smash them on top of each other and then blow them up like a balloon, and you would have an idea of his size. He was grinning with teeth that were two smiles wide, and fidgeting with a shiny device that appeared to be the combination of a walk-n-talkie and a something else. He held the device with hands that were the size of Liperton's face, and then some.
 
