@@ -1,14 +1,14 @@
 # Townsville
 ### Pelagica: Book I
-### by Douglas Asbury III
+### by A. Douglas III
 
-    *TO DO [Intro by Douglas Asbury III]*
+    *TO DO [Intro by A. Douglas III]*
 
 ## Pre Chapter
 
 ### This is Pelagica
 
-*A group of ferry-car passengers pushed their way towards the main gate to get their tongues scanned for entry as they passed under the monumental arch over the ferry-car pier. "Welcome to Pelagica!" was the message on the arch. The giant, glossy letters gleamed as a team of mandroids polished fervently. The sign was the first thing that incoming visitors saw as they entered the Southwestern GatePort of Silton, the outer-most concentric city. Pelagica was the only landmass in the wavy, water world of Maritimus. If viewed from high above (if such a thing were possible) the land would appear somewhat circular and completely surrounded by archipelagos that they called the "seaburbs" and the individual islands of the seaburbs were called "townsvilles". Every part of Pelagica, up to the far inland Barrier Crags (no one ever went there), was built up with vast cities, with boundaries that stretched around the entire circumference of Pelagica. Silton, the outer-most city for example, was only a half-mile deep in, but about 1300 miles long, all the way around Pelagica. Silton, by the way, was envied by all of the other cities and mayors because it was closest to the sea, and the mayor of the city nearest to the sea was the First Mayor of Pelagica who got to wear the biggest hat on This and other fun facts about the Mayoralty can be found and explained in greater detail in Herbert F. Spencer’s "The Mayoralty (May they Be Enlarged) Volume XVI".*[^1]
+*A group of ferry-car passengers pushed their way towards the main gate to get their tongues scanned for entry as they passed under the monumental arch over the ferry-car pier. "Welcome to Pelagica!" was the message on the arch. The giant, glossy letters gleamed as a team of mandroids polished fervently. The sign was the first thing that incoming visitors saw as they entered the Southwestern GatePort of Silton, the outer-most concentric city. Pelagica was the only landmass in the wavy, water world of Maritimus. If viewed from high above (if such a thing were possible) the land would appear somewhat circular and completely surrounded by archipelagos that they called the "seaburbs" and the individual islands of the seaburbs were called "townsvilles". Every part of Pelagica, up to the far inland Barrier Crags (no one ever went there), was built up with vast cities, with boundaries that stretched around the entire circumference of Pelagica. Silton, the outer-most city for example, was only a half-mile deep in, but about 3000 miles long, all the way around Pelagica. Silton, by the way, was envied by all of the other cities and mayors because it was closest to the sea, and the mayor of the city nearest to the sea was the First Mayor of Pelagica who got to wear the biggest hat on This and other fun facts about the Mayoralty can be found and explained in greater detail in Herbert F. Spencer’s "The Mayoralty (May they Be Enlarged) Volume XVI".*[^1]
 
 *With each passenger’s tongue thoroughly scanned and verified, they continued on their routine, workaday walk to seaside Silton, and the pale green waves of the sea dutifully splashed against the ferry-car pier. It was another ordinary day in Pelagica...*
 
