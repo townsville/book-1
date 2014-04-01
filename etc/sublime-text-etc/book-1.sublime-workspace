@@ -389,8 +389,8 @@
 						"selection":
 						[
 							[
-								51,
-								51
+								2066,
+								2066
 							]
 						],
 						"settings":
@@ -399,7 +399,7 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1195.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
